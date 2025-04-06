@@ -1,5 +1,6 @@
 import pandas as pd
 
+"""First Steps"""
 # Defining normal lists
 sizes_list = ['S', 'M', 'L', 'XL']
 users_lists = ['Vandal', 'Ghost99X', 'ElectricWizzarddd', 'TheGamer']
@@ -39,3 +40,21 @@ users_dataframe = pd.DataFrame([first_series, second_series, third_series, fourt
 users_dataframe.title = "Users Data"
 print(users_dataframe)
 
+
+
+"""Multiple series to DataFrame"""
+# Create a table type XLSX with students data
+# Create a custom indexes list
+indexes = ['A', 'B', 'C', 'D']
+# Create series for each dataset
+first_names = pd.Series(['Roger', 'Hanna', 'Gabriel', 'Jazmin'], name='FirstName', index=indexes)
+last_names = pd.Series(['Ferdinand', 'Larosse', 'Garcia', 'Otto'], name='LastName', index=indexes)
+ages = pd.Series([26, 32, 35, 29], name='Age', index=indexes)
+courses = pd.Series(['Machine Learning II', 'Communication and Expression III', 'Software Engineering I', 'Excel IV'], name='Course', index=indexes)
+# Once Series with data are created, the next step is to create the DataFrame
+students_dataframe = pd.DataFrame(data={'FirstName':first_names, 'LastName':last_names, 'Age':ages, 'Course':courses}, index=indexes)
+# Add a title to the DataFrame
+students_dataframe.title = "Students's Current Courses"
+# Visualize dataframe in console
+print(f'\n{students_dataframe}')
+print(f'Dataset title: {students_dataframe.title}')
