@@ -58,3 +58,17 @@ students_dataframe.title = "Students's Current Courses"
 # Visualize dataframe in console
 print(f'\n{students_dataframe}')
 print(f'Dataset title: {students_dataframe.title}')
+
+
+"""Second Example of DataFrame composed of Series without custom indexes"""
+# Create series with data
+animals = pd.Series(['Python', 'Cat', 'Lion', 'Eagle', 'Dog', 'Shark'], name='Animals')
+food = pd.Series(['Mouse', 'Fish', 'Zebra', 'Snake', 'Meat', 'Meat'], name='food')
+location = pd.Series(['Savanna', 'House', 'Savanna', 'Sky', 'House', 'Sea']) # Name is not strictly neccesary to be defined, it´s only for Series, not for the composed DataFrame
+print(animals)
+# Composes a DataFrame with series
+animals_dataframe = pd.DataFrame({'Animal':animals, 'Food':food, 'Location':location})
+# Visualize dataframe
+animals_dataframe.title = 'Animals'
+print(f'\n{animals_dataframe}')
+print(f'Dataset title: {animals_dataframe.title}') # Easy config for a simple DataFrame composed of many Series from Pandas
