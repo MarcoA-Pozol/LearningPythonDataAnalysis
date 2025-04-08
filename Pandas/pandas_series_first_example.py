@@ -91,3 +91,6 @@ print(users_dataframe.info()) # Retrieves columns info(headers, fields, number o
 print(users_dataframe.tail()) # Retrieves all dataframe
 print(users_dataframe.describe(include='all')) # Retrieves count, unique, top, freq, mean, std, min, 25, 50, 75, max for each dataset column
 print(users_dataframe.columns) # Retrieves the list of colums of the dataframe
+print(users_dataframe.shape) # Returns number of rows and number of columns of the dataframe
+print(users_dataframe.index) # Returns the indexes range of the dataframe, number of rows including the header
+print(users_dataframe.dtypes) # Retrieves the columns of the dataframe with its types of data
