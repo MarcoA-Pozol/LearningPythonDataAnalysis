@@ -72,3 +72,15 @@ animals_dataframe = pd.DataFrame({'Animal':animals, 'Food':food, 'Location':loca
 animals_dataframe.title = 'Animals'
 print(f'\n{animals_dataframe}')
 print(f'Dataset title: {animals_dataframe.title}') # Easy config for a simple DataFrame composed of many Series from Pandas
+
+# DataFrame of Users composed of 4 Series
+usernames = pd.Series(['Dewey99', 'Nixon405', 'Lili_70', 'DestroyerM', 'TheGamer'])
+emails = pd.Series(['dewey99@gmail.com', 'nixon405@gmail.com', 'lili_70@gmail.com', 'destroyerm@gmail.com', 'thegamer@gmail.com'])
+ages = pd.Series([32, 29, 26, 19, 45])
+countries = pd.Series(['USA', 'UK', 'Peru', 'Mexico', 'Alemania'])
+print(usernames, emails, ages, countries)
+# Create DataFrame composed with multiple series
+users_dataframe = pd.DataFrame({'Username': usernames, 'Email': emails, 'Age': ages, 'Country': countries})
+users_dataframe.title = 'Usernames data'
+print(f'\n{users_dataframe}')
+print(f'Dataset title: {users_dataframe.title}')
