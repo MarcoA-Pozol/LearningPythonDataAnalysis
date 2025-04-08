@@ -74,13 +74,20 @@ print(f'\n{animals_dataframe}')
 print(f'Dataset title: {animals_dataframe.title}') # Easy config for a simple DataFrame composed of many Series from Pandas
 
 # DataFrame of Users composed of 4 Series
-usernames = pd.Series(['Dewey99', 'Nixon405', 'Lili_70', 'DestroyerM', 'TheGamer'])
-emails = pd.Series(['dewey99@gmail.com', 'nixon405@gmail.com', 'lili_70@gmail.com', 'destroyerm@gmail.com', 'thegamer@gmail.com'])
-ages = pd.Series([32, 29, 26, 19, 45])
-countries = pd.Series(['USA', 'UK', 'Peru', 'Mexico', 'Alemania'])
+usernames = pd.Series(['Dewey99', 'Nixon405', 'Lili_70', 'DestroyerM', 'TheGamer', 'JuanVillalvazo', 'JasonJ', 'HalseyW'])
+emails = pd.Series(['dewey99@gmail.com', 'nixon405@gmail.com', 'lili_70@gmail.com', 'destroyerm@gmail.com', 'thegamer@gmail.com', 'juanvillalvazo@gmail.com', 'jasonj@gmail.com', 'halseyw@gmail.com'])
+ages = pd.Series([32, 29, 26, 19, 45, 35, 19, 24])
+countries = pd.Series(['USA', 'UK', 'Peru', 'Mexico', 'Alemania', 'Mexico', 'USA', 'USA'])
 print(usernames, emails, ages, countries)
 # Create DataFrame composed with multiple series
 users_dataframe = pd.DataFrame({'Username': usernames, 'Email': emails, 'Age': ages, 'Country': countries})
 users_dataframe.title = 'Usernames data'
 print(f'\n{users_dataframe}')
 print(f'Dataset title: {users_dataframe.title}')
+
+# DataFrame Exploration and Manipulation
+print(users_dataframe.head()) # Retrieves all dataframe
+print(users_dataframe.info()) # Retrieves columns info(headers, fields, number of entries, dtype)
+print(users_dataframe.tail()) # Retrieves all dataframe
+print(users_dataframe.describe(include='all')) # Retrieves count, unique, top, freq, mean, std, min, 25, 50, 75, max for each dataset column
+print(users_dataframe.columns) # Retrieves the list of colums of the dataframe
