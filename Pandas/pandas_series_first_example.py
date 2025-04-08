@@ -74,10 +74,10 @@ print(f'\n{animals_dataframe}')
 print(f'Dataset title: {animals_dataframe.title}') # Easy config for a simple DataFrame composed of many Series from Pandas
 
 # DataFrame of Users composed of 4 Series
-usernames = pd.Series(['Dewey99', 'Nixon405', 'Lili_70', 'DestroyerM', 'TheGamer', 'JuanVillalvazo', 'JasonJ', 'HalseyW'])
-emails = pd.Series(['dewey99@gmail.com', 'nixon405@gmail.com', 'lili_70@gmail.com', 'destroyerm@gmail.com', 'thegamer@gmail.com', 'juanvillalvazo@gmail.com', 'jasonj@gmail.com', 'halseyw@gmail.com'])
-ages = pd.Series([32, 29, 26, 19, 45, 35, 19, 24])
-countries = pd.Series(['USA', 'UK', 'Peru', 'Mexico', 'Alemania', 'Mexico', 'USA', 'USA'])
+usernames = pd.Series(['Dewey99', 'Nixon405', 'Lili_70', 'DestroyerM', 'TheGamer', 'JuanVillalvazo', 'JasonJ', 'HalseyW', 'JuanDavid'])
+emails = pd.Series(['dewey99@gmail.com', 'nixon405@gmail.com', 'lili_70@gmail.com', 'destroyerm@gmail.com', 'thegamer@gmail.com', 'juanvillalvazo@gmail.com', 'jasonj@gmail.com', 'halseyw@gmail.com', 'juandavid@gmail.com'])
+ages = pd.Series([32, 29, 26, 19, 45, 35, 19, 24, 52])
+countries = pd.Series(['USA', 'UK', 'Peru', 'Mexico', 'Germany', 'Mexico', 'USA', 'USA', 'Spain'])
 print(usernames, emails, ages, countries)
 # Create DataFrame composed with multiple series
 users_dataframe = pd.DataFrame({'Username': usernames, 'Email': emails, 'Age': ages, 'Country': countries})
@@ -94,3 +94,17 @@ print(users_dataframe.columns) # Retrieves the list of colums of the dataframe
 print(users_dataframe.shape) # Returns number of rows and number of columns of the dataframe
 print(users_dataframe.index) # Returns the indexes range of the dataframe, number of rows including the header
 print(users_dataframe.dtypes) # Retrieves the columns of the dataframe with its types of data
+
+# Indexing and Filtering Data
+print('\nFiltering DataFrame Data')
+print(users_dataframe[users_dataframe['Age']>30]) # Filtering users oldest than 30 years
+print(users_dataframe[users_dataframe['Age']<30]) # Filtering users where their age is under 30 years old
+print(users_dataframe['Age'].mean()) # Mean of ages
+print(users_dataframe[users_dataframe['Age']<users_dataframe['Age'].mean()]) # Filter users where age is under the mean 
+print(users_dataframe[users_dataframe['Username']=='JuanVillalvazo']) # Find the user with the name "JuanVillalvazo"
+# Filtering users that include 'Juan'
+print(users_dataframe[users_dataframe['Username'].str.contains('Juan', case=False, na=False)])
+# Filtering users that include numbers in their username
+print(users_dataframe[users_dataframe['Username'].str.contains(r'\d')])
+# Filtering users that does not include numbers in their username
+print(users_dataframe[users_dataframe['Username'].str.contains(r'\d') == False])
