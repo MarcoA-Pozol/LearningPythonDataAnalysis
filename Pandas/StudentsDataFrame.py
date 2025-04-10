@@ -1,4 +1,5 @@
 import pandas as pd
+import random
 
 # Create the dataframe
 df = pd.read_csv(filepath_or_buffer="LearningPythonDataAnalysis/DataSets/users_data.csv")
@@ -37,3 +38,23 @@ most_common_male_name = male_people['Name'].value_counts().idxmax()
 most_common_female_name = female_people['Name'].value_counts().idxmax()
 print(f'Most common male name: {most_common_male_name} - {male_people[male_people["Name"]==most_common_male_name].value_counts()}')
 print(f'Most common female name: {most_common_female_name} - {female_people[female_people["Name"]==most_common_female_name].value_counts()}')
+
+# Add a new column with rows of data for every user (Ocupation)
+ocupations_options = [
+    "Police Officer", "Firefigther", "Medic", "Postman", "Windows Cleaner", "Store Asistant", "Programer", "Architect", "Construction Worker", "Housekeeper", "Food Deliver", "Business Man", "Secretary", "Financial Manager","Enterprises Manager", "Plumber", "Carpenter", "Nurse", "Babysiter", "Fit Trainer", "Periodist", "Youtuber", "Bartender"
+]
+ocupations = []
+for _ in range(0, 100+1):
+    random_ocupation = random.choice(ocupations_options)
+    ocupations.append(random_ocupation)
+ocupations_series = pd.Series(ocupations, name='Ocupation')
+
+if ocupations_series.name not in df.columns:
+    df[ocupations_series.name] = ocupations_series
+    print("New column 'Ocupation' created succesfully!")
+else:
+    print("Column 'Ocupation' already exists.")
+print(df)
+
+# Save the new updated dataframe
+df.to_csv("LearningPythonDataAnalysis/DataSets/users_data.csv", index=False)
