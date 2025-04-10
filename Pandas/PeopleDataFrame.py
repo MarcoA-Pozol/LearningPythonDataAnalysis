@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 # Create the dataframe
-df = pd.read_csv(filepath_or_buffer="LearningPythonDataAnalysis/DataSets/users_data.csv")
+df = pd.read_csv(filepath_or_buffer="LearningPythonDataAnalysis/DataSets/people_data.csv")
 print(df)
 
 
@@ -57,4 +57,24 @@ else:
 print(df)
 
 # Save the new updated dataframe
-df.to_csv("LearningPythonDataAnalysis/DataSets/users_data.csv", index=False)
+df.to_csv("LearningPythonDataAnalysis/DataSets/people_data.csv", index=False)
+
+# Identify nurses
+nurses = df[df['Ocupation']=='Nurse']
+print(nurses)
+
+# Change name of Nuse with ID 7 to a female name
+nurses.loc[nurses['ID'] == 7, 'Name'] = 'Helen'
+print(nurses)
+
+# Add salary column
+
+
+"""Adding new rows"""
+name_options = ["Emma", "Liam", "Olivia", "Noah", "Ava", "Sophia", "James", "Isabella", "Benjamin", "Mia", "Ethan", "Charlotte", "Lucas", "Amelia", "Mason", "Harper", "Logan", "Ella", "Alexander", "Grace","Henry", "Lily", "Daniel", "Scarlett", "Michael", "Zoe"]
+age_options = []
+gender_options =  ['Male', 'Female', 'Other']
+city_options = ["New York", "Los Angeles", "Chicago", "Houston", "Miami", "San Francisco", "Seattle", "Dallas", "Atlanta", "Boston", "Denver", "Phoenix", "Las Vegas", "San Diego", "Philadelphia", "Austin", "Orlando", "Washington D.C.", "Nashville", "Detroit", "Minneapolis", "Portland", "Charlotte", "Indianapolis", "San Antonio", "Tampa"]
+score_options = []
+salary_options = []
+ocupations_options = ocupations_options
