@@ -1,0 +1,101 @@
+ID,Name,Age,Gender,City,Score
+1,Diana,33,Other,Houston,32.72
+2,Edward,36,Male,Houston,35.01
+3,Jane,39,Other,New York,66.93
+4,Jane,19,Female,Phoenix,98.04
+5,Charlie,51,Other,Los Angeles,38.05
+6,Diana,44,Male,New York,33.56
+7,Charlie,18,Female,New York,21.02
+8,Bob,44,Male,Chicago,49.77
+9,Ian,40,Male,New York,14.11
+10,Hannah,30,Male,Los Angeles,24.03
+11,Fiona,48,Female,New York,44.41
+12,Alice,54,Male,Los Angeles,77.82
+13,Bob,37,Male,Phoenix,5.51
+14,Jane,30,Other,New York,40.83
+15,Ian,25,Male,Phoenix,78.27
+16,Ian,60,Female,Los Angeles,60.12
+17,Bob,44,Male,Chicago,28.92
+18,Edward,20,Male,Chicago,25.6
+19,Alice,27,Male,Los Angeles,44.76
+20,Alice,20,Other,Los Angeles,94.75
+21,Diana,19,Female,New York,8.85
+22,Charlie,51,Female,Houston,70.83
+23,Hannah,34,Male,Houston,73.1
+24,Edward,25,Female,Houston,33.22
+25,Ian,23,Female,Phoenix,0.24
+26,Edward,40,Other,New York,54.25
+27,Ian,22,Female,Houston,34.3
+28,Ian,57,Male,Los Angeles,22.8
+29,Alice,31,Male,New York,80.03
+30,Diana,19,Other,Los Angeles,99.12
+31,Alice,54,Other,Los Angeles,23.46
+32,Fiona,50,Male,Houston,28.54
+33,Bob,23,Female,Houston,51.44
+34,Jane,59,Male,Houston,18.74
+35,George,37,Female,Houston,40.37
+36,Ian,34,Female,New York,16.57
+37,Alice,26,Female,New York,14.46
+38,Fiona,23,Other,New York,30.75
+39,George,44,Other,Houston,45.57
+40,Edward,25,Other,Chicago,16.51
+41,Charlie,56,Other,New York,74.04
+42,Jane,44,Female,Phoenix,76.88
+43,Charlie,41,Male,New York,6.96
+44,Alice,41,Other,Los Angeles,75.64
+45,Alice,35,Female,Los Angeles,44.48
+46,Bob,37,Female,New York,80.08
+47,Hannah,58,Other,New York,68.65
+48,Edward,19,Male,Los Angeles,17.44
+49,Fiona,45,Female,New York,18.07
+50,Ian,39,Female,New York,29.43
+51,Diana,23,Other,Houston,52.41
+52,Bob,34,Male,Houston,71.16
+53,Diana,35,Male,Phoenix,58.75
+54,Hannah,26,Female,Los Angeles,56.02
+55,Charlie,41,Other,Phoenix,51.99
+56,Jane,58,Female,Phoenix,90.3
+57,Ian,24,Female,Chicago,71.38
+58,Hannah,58,Male,Chicago,25.83
+59,Charlie,50,Other,Houston,64.3
+60,Fiona,29,Female,New York,94.62
+61,Fiona,39,Female,Los Angeles,36.98
+62,Jane,39,Male,Chicago,11.31
+63,Edward,42,Other,Chicago,64.02
+64,Fiona,44,Female,Chicago,31.94
+65,Edward,40,Male,New York,69.33
+66,Bob,38,Male,Phoenix,33.78
+67,Fiona,43,Other,Chicago,94.54
+68,Fiona,31,Female,Los Angeles,32.82
+69,Edward,28,Other,Los Angeles,90.03
+70,George,60,Female,New York,61.01
+71,Alice,21,Female,Chicago,1.05
+72,Diana,26,Other,Phoenix,85.64
+73,Edward,21,Other,New York,55.81
+74,George,56,Other,Phoenix,90.52
+75,Bob,33,Female,Phoenix,48.57
+76,Hannah,20,Female,Chicago,6.34
+77,Hannah,27,Other,New York,1.34
+78,Edward,49,Female,Phoenix,10.14
+79,Ian,21,Female,New York,20.2
+80,Bob,35,Female,Phoenix,21.76
+81,Alice,46,Male,New York,53.16
+82,Charlie,22,Other,Houston,1.81
+83,Alice,52,Male,Los Angeles,92.13
+84,Hannah,35,Female,Phoenix,88.08
+85,George,27,Female,Los Angeles,34.65
+86,Alice,36,Male,New York,94.06
+87,Charlie,25,Other,Chicago,63.94
+88,Charlie,26,Other,New York,71.78
+89,Hannah,37,Male,Phoenix,46.49
+90,Charlie,19,Other,Houston,10.12
+91,Jane,50,Other,Chicago,76.42
+92,Bob,21,Other,New York,59.0
+93,Fiona,30,Female,Phoenix,46.12
+94,Diana,39,Female,New York,21.87
+95,Diana,43,Other,Chicago,31.1
+96,Fiona,18,Male,Phoenix,46.32
+97,Jane,32,Female,Los Angeles,80.0
+98,Hannah,19,Female,New York,83.82
+99,Fiona,42,Male,Phoenix,73.77
+100,Jane,19,Male,Chicago,78.07
