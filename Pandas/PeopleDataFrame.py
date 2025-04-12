@@ -108,10 +108,9 @@ try:
 except:
     pass
 
+df.set_index('ID', inplace=True)
 df.to_csv("LearningPythonDataAnalysis/DataSets/people_data.csv", index=False)
 print(df)
 
-
-# Set the DataFrame to use a custom index.
 # Find the last index, delete every next row from this point.
 # Add new rows with data using an autoincrementable index.
