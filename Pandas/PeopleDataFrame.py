@@ -67,14 +67,36 @@ print(nurses)
 nurses.loc[nurses['ID'] == 7, 'Name'] = 'Helen'
 print(nurses)
 
-# Add salary column
-
+# Adding a column for salary
+salaries = []
+for _ in range(0, 100+1):
+    salary = random.randint(800, 8000)
+    salaries.append(salary)
+salaries_serie = pd.Series(salaries)
+df['Salary'] = salaries_serie
 
 """Adding new rows"""
+# Data Options
 name_options = ["Emma", "Liam", "Olivia", "Noah", "Ava", "Sophia", "James", "Isabella", "Benjamin", "Mia", "Ethan", "Charlotte", "Lucas", "Amelia", "Mason", "Harper", "Logan", "Ella", "Alexander", "Grace","Henry", "Lily", "Daniel", "Scarlett", "Michael", "Zoe"]
-age_options = []
 gender_options =  ['Male', 'Female', 'Other']
 city_options = ["New York", "Los Angeles", "Chicago", "Houston", "Miami", "San Francisco", "Seattle", "Dallas", "Atlanta", "Boston", "Denver", "Phoenix", "Las Vegas", "San Diego", "Philadelphia", "Austin", "Orlando", "Washington D.C.", "Nashville", "Detroit", "Minneapolis", "Portland", "Charlotte", "Indianapolis", "San Antonio", "Tampa"]
-score_options = []
-salary_options = []
 ocupations_options = ocupations_options
+
+# Including 50 new records
+new_people = []
+for _ in range(0, 50+1):
+    person = pd.DataFrame([{
+        'Name': random.choice(name_options),
+        'Age': random.randint(0, 120),
+        'Gender': random.choice(gender_options),
+        'City': random.choice(city_options),
+        'Score': random.uniform(20, 120),
+        'Ocupation': random.choice(ocupations_options),
+        'Salary': random.randint(800, 8000),
+    }])
+    df = pd.concat([df, person], ignore_index=True)
+
+# Drop uneccesary 'Occupation' column and save the updated file
+df.drop(columns=['Occupation'], inplace=True)
+df.to_csv("LearningPythonDataAnalysis/DataSets/people_data.csv", index=False)
+print(df)
