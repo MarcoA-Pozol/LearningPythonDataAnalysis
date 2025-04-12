@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.pyplot import cm # Colormap
 
 # Load dataframe from csv file
 df = pd.read_csv('LearningPythonDataAnalysis/DataSets/people_data.csv')
@@ -31,6 +32,35 @@ plt.xlabel('City')
 plt.ylabel('Population')
 plt.title('Cities Population')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
+for bar in bars:
+    height = bar.get_height()
+    plt.text(
+        bar.get_x() + bar.get_width() / 2,
+        height,
+        str(height),
+        ha='center',
+        va='bottom',
+        fontsize=9,
+        fontweight='bold'
+    )
+plt.xticks(rotation=65)
+plt.show()
+
+"""People per Ocupation"""
+# Count the number of rows per ocupation
+ocupation_counts = df['Ocupation'].value_counts()
+print(ocupation_counts)
+
+# Colormap for bars
+colors = cm.Set3(range(len(ocupation_counts)))
+
+# Visualizing ocupation_counts in a Bar plot
+plt.figure(figsize=(6, 4))
+bars = plt.bar(ocupation_counts.index, ocupation_counts.values, color=colors)
+plt.xlabel('Ocupation')
+plt.ylabel('People')
+plt.title('People Ocupations')
+plt.grid(axis='y', linestyle='dashed', alpha=0.7)
 for bar in bars:
     height = bar.get_height()
     plt.text(
