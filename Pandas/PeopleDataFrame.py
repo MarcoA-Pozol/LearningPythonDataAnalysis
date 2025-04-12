@@ -97,6 +97,21 @@ for _ in range(0, 50+1):
     df = pd.concat([df, person], ignore_index=True)
 
 # Drop uneccesary 'Occupation' column and save the updated file
-df.drop(columns=['Occupation'], inplace=True)
+try:
+    df.drop(columns=['Occupation'], inplace=True)
+except:
+    pass
+
+# Drop old index column
+try:
+    df.reset_index(drop=True, inplace=True)
+except:
+    pass
+
 df.to_csv("LearningPythonDataAnalysis/DataSets/people_data.csv", index=False)
 print(df)
+
+
+# Set the DataFrame to use a custom index.
+# Find the last index, delete every next row from this point.
+# Add new rows with data using an autoincrementable index.

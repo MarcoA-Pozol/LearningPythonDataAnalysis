@@ -1,105 +1,105 @@
 ID,Name,Age,Gender,City,Score,Ocupation,Salary
-1.0,Diana,33,Other,Houston,32.72,Babysiter,7672.0
-2.0,Edward,36,Male,Houston,35.01,Bartender,3500.0
-3.0,Jane,39,Other,New York,66.93,Bartender,2890.0
-4.0,Jane,19,Female,Phoenix,98.04,Store Asistant,2259.0
-5.0,Charlie,51,Other,Los Angeles,38.05,Programer,7080.0
-6.0,Diana,44,Male,New York,33.56,Firefigther,2075.0
-7.0,Charlie,18,Female,New York,21.02,Nurse,5426.0
-8.0,Bob,44,Male,Chicago,49.77,Business Man,7469.0
-9.0,Ian,40,Male,New York,14.11,Architect,4701.0
-10.0,Hannah,30,Male,Los Angeles,24.03,Business Man,5785.0
-11.0,Fiona,48,Female,New York,44.41,Enterprises Manager,1851.0
-12.0,Alice,54,Male,Los Angeles,77.82,Enterprises Manager,6533.0
-13.0,Bob,37,Male,Phoenix,5.51,Postman,6266.0
-14.0,Jane,30,Other,New York,40.83,Fit Trainer,6504.0
-15.0,Ian,25,Male,Phoenix,78.27,Babysiter,1448.0
-16.0,Ian,60,Female,Los Angeles,60.12,Babysiter,3336.0
-17.0,Bob,44,Male,Chicago,28.92,Windows Cleaner,6535.0
-18.0,Edward,20,Male,Chicago,25.6,Carpenter,1183.0
-19.0,Alice,27,Male,Los Angeles,44.76,Financial Manager,4578.0
-20.0,Alice,20,Other,Los Angeles,94.75,Fit Trainer,3027.0
-21.0,Diana,19,Female,New York,8.85,Medic,7832.0
-22.0,Charlie,51,Female,Houston,70.83,Medic,1869.0
-23.0,Hannah,34,Male,Houston,73.1,Windows Cleaner,5083.0
-24.0,Edward,25,Female,Houston,33.22,Fit Trainer,6588.0
-25.0,Ian,23,Female,Phoenix,0.24,Construction Worker,4824.0
-26.0,Edward,40,Other,New York,54.25,Business Man,5877.0
-27.0,Ian,22,Female,Houston,34.3,Store Asistant,1971.0
-28.0,Ian,57,Male,Los Angeles,22.8,Carpenter,1280.0
-29.0,Alice,31,Male,New York,80.03,Architect,2675.0
-30.0,Diana,19,Other,Los Angeles,99.12,Construction Worker,5974.0
-31.0,Alice,54,Other,Los Angeles,23.46,Postman,7836.0
-32.0,Fiona,50,Male,Houston,28.54,Plumber,7755.0
-33.0,Bob,23,Female,Houston,51.44,Housekeeper,5136.0
-34.0,Jane,59,Male,Houston,18.74,Financial Manager,2428.0
-35.0,George,37,Female,Houston,40.37,Business Man,6449.0
-36.0,Ian,34,Female,New York,16.57,Financial Manager,3139.0
-37.0,Alice,26,Female,New York,14.46,Architect,4560.0
-38.0,Fiona,23,Other,New York,30.75,Programer,4551.0
-39.0,George,44,Other,Houston,45.57,Construction Worker,3738.0
-40.0,Edward,25,Other,Chicago,16.51,Architect,4796.0
-41.0,Charlie,56,Other,New York,74.04,Secretary,3912.0
-42.0,Jane,44,Female,Phoenix,76.88,Financial Manager,4480.0
-43.0,Charlie,41,Male,New York,6.96,Medic,1769.0
-44.0,Alice,41,Other,Los Angeles,75.64,Babysiter,3164.0
-45.0,Alice,35,Female,Los Angeles,44.48,Architect,4923.0
-46.0,Bob,37,Female,New York,80.08,Architect,3644.0
-47.0,Hannah,58,Other,New York,68.65,Architect,1241.0
-48.0,Edward,19,Male,Los Angeles,17.44,Carpenter,1027.0
-49.0,Fiona,45,Female,New York,18.07,Police Officer,7809.0
-50.0,Ian,39,Female,New York,29.43,Postman,6766.0
-51.0,Diana,23,Other,Houston,52.41,Bartender,7915.0
-52.0,Bob,34,Male,Houston,71.16,Postman,7687.0
-53.0,Diana,35,Male,Phoenix,58.75,Youtuber,4688.0
-54.0,Hannah,26,Female,Los Angeles,56.02,Fit Trainer,6294.0
-55.0,Charlie,41,Other,Phoenix,51.99,Enterprises Manager,7814.0
-56.0,Jane,58,Female,Phoenix,90.3,Postman,2368.0
-57.0,Ian,24,Female,Chicago,71.38,Architect,5276.0
-58.0,Hannah,58,Male,Chicago,25.83,Windows Cleaner,2646.0
-59.0,Charlie,50,Other,Houston,64.3,Construction Worker,7940.0
-60.0,Fiona,29,Female,New York,94.62,Housekeeper,7922.0
-61.0,Fiona,39,Female,Los Angeles,36.98,Windows Cleaner,6747.0
-62.0,Jane,39,Male,Chicago,11.31,Architect,3716.0
-63.0,Edward,42,Other,Chicago,64.02,Plumber,3297.0
-64.0,Fiona,44,Female,Chicago,31.94,Fit Trainer,2191.0
-65.0,Edward,40,Male,New York,69.33,Windows Cleaner,3020.0
-66.0,Bob,38,Male,Phoenix,33.78,Carpenter,5692.0
-67.0,Fiona,43,Other,Chicago,94.54,Store Asistant,6321.0
-68.0,Fiona,31,Female,Los Angeles,32.82,Carpenter,964.0
-69.0,Edward,28,Other,Los Angeles,90.03,Construction Worker,3701.0
-70.0,George,60,Female,New York,61.01,Youtuber,7837.0
-71.0,Alice,21,Female,Chicago,1.05,Nurse,1027.0
-72.0,Diana,26,Other,Phoenix,85.64,Windows Cleaner,2048.0
-73.0,Edward,21,Other,New York,55.81,Postman,4068.0
-74.0,George,56,Other,Phoenix,90.52,Programer,6586.0
-75.0,Bob,33,Female,Phoenix,48.57,Bartender,2818.0
-76.0,Hannah,20,Female,Chicago,6.34,Secretary,7086.0
-77.0,Hannah,27,Other,New York,1.34,Business Man,5363.0
-78.0,Edward,49,Female,Phoenix,10.14,Food Deliver,5788.0
-79.0,Ian,21,Female,New York,20.2,Periodist,3332.0
-80.0,Bob,35,Female,Phoenix,21.76,Carpenter,3621.0
-81.0,Alice,46,Male,New York,53.16,Business Man,2502.0
-82.0,Charlie,22,Other,Houston,1.81,Architect,4717.0
-83.0,Alice,52,Male,Los Angeles,92.13,Secretary,4964.0
-84.0,Hannah,35,Female,Phoenix,88.08,Periodist,5492.0
-85.0,George,27,Female,Los Angeles,34.65,Periodist,7108.0
-86.0,Alice,36,Male,New York,94.06,Financial Manager,1866.0
-87.0,Charlie,25,Other,Chicago,63.94,Housekeeper,7334.0
-88.0,Charlie,26,Other,New York,71.78,Programer,1849.0
-89.0,Hannah,37,Male,Phoenix,46.49,Youtuber,3149.0
-90.0,Charlie,19,Other,Houston,10.12,Firefigther,7040.0
-91.0,Jane,50,Other,Chicago,76.42,Windows Cleaner,5345.0
-92.0,Bob,21,Other,New York,59.0,Enterprises Manager,3208.0
-93.0,Fiona,30,Female,Phoenix,46.12,Firefigther,1886.0
-94.0,Diana,39,Female,New York,21.87,Plumber,3191.0
-95.0,Diana,43,Other,Chicago,31.1,Programer,7173.0
-96.0,Fiona,18,Male,Phoenix,46.32,Fit Trainer,1637.0
-97.0,Jane,32,Female,Los Angeles,80.0,Babysiter,4057.0
-98.0,Hannah,19,Female,New York,83.82,Windows Cleaner,1657.0
-99.0,Fiona,42,Male,Phoenix,73.77,Enterprises Manager,1044.0
-100.0,Jane,19,Male,Chicago,78.07,Medic,1001.0
-,Ava,22,Male,New York,0.1316979778039992,,2079.0
+1.0,Diana,33,Other,Houston,32.72,Babysiter,4369.0
+2.0,Edward,36,Male,Houston,35.01,Bartender,2574.0
+3.0,Jane,39,Other,New York,66.93,Bartender,4329.0
+4.0,Jane,19,Female,Phoenix,98.04,Store Asistant,1793.0
+5.0,Charlie,51,Other,Los Angeles,38.05,Programer,3624.0
+6.0,Diana,44,Male,New York,33.56,Firefigther,2528.0
+7.0,Charlie,18,Female,New York,21.02,Nurse,6787.0
+8.0,Bob,44,Male,Chicago,49.77,Business Man,3654.0
+9.0,Ian,40,Male,New York,14.11,Architect,4854.0
+10.0,Hannah,30,Male,Los Angeles,24.03,Business Man,3190.0
+11.0,Fiona,48,Female,New York,44.41,Enterprises Manager,2656.0
+12.0,Alice,54,Male,Los Angeles,77.82,Enterprises Manager,4175.0
+13.0,Bob,37,Male,Phoenix,5.51,Postman,1276.0
+14.0,Jane,30,Other,New York,40.83,Fit Trainer,2530.0
+15.0,Ian,25,Male,Phoenix,78.27,Babysiter,7468.0
+16.0,Ian,60,Female,Los Angeles,60.12,Babysiter,5028.0
+17.0,Bob,44,Male,Chicago,28.92,Windows Cleaner,843.0
+18.0,Edward,20,Male,Chicago,25.6,Carpenter,1291.0
+19.0,Alice,27,Male,Los Angeles,44.76,Financial Manager,5216.0
+20.0,Alice,20,Other,Los Angeles,94.75,Fit Trainer,7267.0
+21.0,Diana,19,Female,New York,8.85,Medic,6650.0
+22.0,Charlie,51,Female,Houston,70.83,Medic,1702.0
+23.0,Hannah,34,Male,Houston,73.1,Windows Cleaner,6167.0
+24.0,Edward,25,Female,Houston,33.22,Fit Trainer,2636.0
+25.0,Ian,23,Female,Phoenix,0.24,Construction Worker,4126.0
+26.0,Edward,40,Other,New York,54.25,Business Man,1361.0
+27.0,Ian,22,Female,Houston,34.3,Store Asistant,7528.0
+28.0,Ian,57,Male,Los Angeles,22.8,Carpenter,2690.0
+29.0,Alice,31,Male,New York,80.03,Architect,2059.0
+30.0,Diana,19,Other,Los Angeles,99.12,Construction Worker,4498.0
+31.0,Alice,54,Other,Los Angeles,23.46,Postman,5216.0
+32.0,Fiona,50,Male,Houston,28.54,Plumber,2224.0
+33.0,Bob,23,Female,Houston,51.44,Housekeeper,3257.0
+34.0,Jane,59,Male,Houston,18.74,Financial Manager,2962.0
+35.0,George,37,Female,Houston,40.37,Business Man,7869.0
+36.0,Ian,34,Female,New York,16.57,Financial Manager,7904.0
+37.0,Alice,26,Female,New York,14.46,Architect,7304.0
+38.0,Fiona,23,Other,New York,30.75,Programer,7742.0
+39.0,George,44,Other,Houston,45.57,Construction Worker,2844.0
+40.0,Edward,25,Other,Chicago,16.51,Architect,3707.0
+41.0,Charlie,56,Other,New York,74.04,Secretary,2706.0
+42.0,Jane,44,Female,Phoenix,76.88,Financial Manager,2816.0
+43.0,Charlie,41,Male,New York,6.96,Medic,6006.0
+44.0,Alice,41,Other,Los Angeles,75.64,Babysiter,5112.0
+45.0,Alice,35,Female,Los Angeles,44.48,Architect,1129.0
+46.0,Bob,37,Female,New York,80.08,Architect,4690.0
+47.0,Hannah,58,Other,New York,68.65,Architect,870.0
+48.0,Edward,19,Male,Los Angeles,17.44,Carpenter,5402.0
+49.0,Fiona,45,Female,New York,18.07,Police Officer,2117.0
+50.0,Ian,39,Female,New York,29.43,Postman,5758.0
+51.0,Diana,23,Other,Houston,52.41,Bartender,1646.0
+52.0,Bob,34,Male,Houston,71.16,Postman,7605.0
+53.0,Diana,35,Male,Phoenix,58.75,Youtuber,1130.0
+54.0,Hannah,26,Female,Los Angeles,56.02,Fit Trainer,5840.0
+55.0,Charlie,41,Other,Phoenix,51.99,Enterprises Manager,2660.0
+56.0,Jane,58,Female,Phoenix,90.3,Postman,2444.0
+57.0,Ian,24,Female,Chicago,71.38,Architect,3772.0
+58.0,Hannah,58,Male,Chicago,25.83,Windows Cleaner,5070.0
+59.0,Charlie,50,Other,Houston,64.3,Construction Worker,7425.0
+60.0,Fiona,29,Female,New York,94.62,Housekeeper,2693.0
+61.0,Fiona,39,Female,Los Angeles,36.98,Windows Cleaner,5522.0
+62.0,Jane,39,Male,Chicago,11.31,Architect,7300.0
+63.0,Edward,42,Other,Chicago,64.02,Plumber,2463.0
+64.0,Fiona,44,Female,Chicago,31.94,Fit Trainer,3647.0
+65.0,Edward,40,Male,New York,69.33,Windows Cleaner,4635.0
+66.0,Bob,38,Male,Phoenix,33.78,Carpenter,2154.0
+67.0,Fiona,43,Other,Chicago,94.54,Store Asistant,4186.0
+68.0,Fiona,31,Female,Los Angeles,32.82,Carpenter,5031.0
+69.0,Edward,28,Other,Los Angeles,90.03,Construction Worker,6875.0
+70.0,George,60,Female,New York,61.01,Youtuber,7392.0
+71.0,Alice,21,Female,Chicago,1.05,Nurse,7313.0
+72.0,Diana,26,Other,Phoenix,85.64,Windows Cleaner,3833.0
+73.0,Edward,21,Other,New York,55.81,Postman,6376.0
+74.0,George,56,Other,Phoenix,90.52,Programer,4579.0
+75.0,Bob,33,Female,Phoenix,48.57,Bartender,1426.0
+76.0,Hannah,20,Female,Chicago,6.34,Secretary,2051.0
+77.0,Hannah,27,Other,New York,1.34,Business Man,959.0
+78.0,Edward,49,Female,Phoenix,10.14,Food Deliver,6453.0
+79.0,Ian,21,Female,New York,20.2,Periodist,2021.0
+80.0,Bob,35,Female,Phoenix,21.76,Carpenter,2193.0
+81.0,Alice,46,Male,New York,53.16,Business Man,5475.0
+82.0,Charlie,22,Other,Houston,1.81,Architect,1460.0
+83.0,Alice,52,Male,Los Angeles,92.13,Secretary,5212.0
+84.0,Hannah,35,Female,Phoenix,88.08,Periodist,3296.0
+85.0,George,27,Female,Los Angeles,34.65,Periodist,5092.0
+86.0,Alice,36,Male,New York,94.06,Financial Manager,6513.0
+87.0,Charlie,25,Other,Chicago,63.94,Housekeeper,3894.0
+88.0,Charlie,26,Other,New York,71.78,Programer,6361.0
+89.0,Hannah,37,Male,Phoenix,46.49,Youtuber,4411.0
+90.0,Charlie,19,Other,Houston,10.12,Firefigther,7802.0
+91.0,Jane,50,Other,Chicago,76.42,Windows Cleaner,6948.0
+92.0,Bob,21,Other,New York,59.0,Enterprises Manager,3536.0
+93.0,Fiona,30,Female,Phoenix,46.12,Firefigther,4689.0
+94.0,Diana,39,Female,New York,21.87,Plumber,4397.0
+95.0,Diana,43,Other,Chicago,31.1,Programer,3584.0
+96.0,Fiona,18,Male,Phoenix,46.32,Fit Trainer,6291.0
+97.0,Jane,32,Female,Los Angeles,80.0,Babysiter,4515.0
+98.0,Hannah,19,Female,New York,83.82,Windows Cleaner,5547.0
+99.0,Fiona,42,Male,Phoenix,73.77,Enterprises Manager,2501.0
+100.0,Jane,19,Male,Chicago,78.07,Medic,3322.0
+,Ava,22,Male,New York,0.1316979778039992,,2989.0
 ,Daniel,19,Other,Dallas,0.3694061657616448,,
 ,Henry,12,Female,Las Vegas,0.9681550284647076,,
 ,Liam,100,Other,New York,0.2592113905837716,,
@@ -303,54 +303,156 @@ ID,Name,Age,Gender,City,Score,Ocupation,Salary
 ,Lily,77,Other,Charlotte,116.38030369448354,Business Man,
 ,Olivia,12,Other,San Diego,69.10104531938855,Secretary,
 ,James,87,Male,Austin,88.33455364353847,Store Asistant,
-,Harper,24,Female,Houston,41.05657191433508,Carpenter,6803.0
-,Henry,84,Female,Detroit,106.57592082135166,Plumber,3978.0
-,Mia,4,Female,Minneapolis,74.6426296140696,Nurse,6080.0
-,Ava,74,Female,Nashville,90.04824783727557,Babysiter,1049.0
-,Sophia,85,Female,Las Vegas,35.54721102618609,Business Man,4190.0
-,Ella,64,Other,Dallas,79.1797291363365,Architect,1857.0
-,Ella,112,Male,Tampa,93.74182723033888,Plumber,6626.0
-,Michael,82,Male,Philadelphia,41.11168621016731,Business Man,7042.0
-,Daniel,62,Male,Chicago,116.74708994537828,Bartender,5079.0
-,Amelia,80,Other,Phoenix,35.23662248731294,Financial Manager,2657.0
-,Charlotte,49,Male,Phoenix,76.91756767002524,Nurse,6103.0
-,Olivia,14,Other,Indianapolis,89.80481819137901,Carpenter,2365.0
-,Logan,76,Male,Orlando,53.229835423545985,Bartender,1896.0
-,Ava,11,Male,Miami,92.79342904184719,Periodist,2186.0
-,Olivia,34,Male,Orlando,84.917657082348,Financial Manager,2538.0
-,Lucas,89,Other,Tampa,94.92270244610427,Financial Manager,5815.0
-,Benjamin,13,Other,Austin,92.36066827353645,Store Asistant,7593.0
-,Daniel,96,Other,Denver,109.34439113792442,Store Asistant,6694.0
-,Emma,86,Female,Detroit,90.52834769900089,Housekeeper,3959.0
-,Ava,86,Male,Seattle,69.04748222619776,Plumber,7338.0
-,Ethan,34,Male,New York,93.99448480384028,Store Asistant,5534.0
-,Grace,14,Other,Dallas,111.46683902593769,Firefigther,5047.0
-,Isabella,57,Other,San Antonio,40.213122163951326,Store Asistant,6299.0
-,Harper,107,Male,Nashville,28.312142009936018,Housekeeper,1615.0
-,Scarlett,108,Other,Houston,22.756812313904145,Fit Trainer,2445.0
-,Sophia,107,Other,Denver,85.72618916968625,Financial Manager,6373.0
-,Harper,54,Female,Nashville,25.39474528738262,Firefigther,6220.0
-,Michael,81,Male,San Antonio,104.01496246249414,Architect,6177.0
-,Liam,71,Other,Atlanta,87.77725765981849,Store Asistant,2299.0
-,Harper,78,Female,Dallas,107.2791706498613,Medic,1788.0
-,Ethan,74,Other,Houston,34.371530551986154,Fit Trainer,2025.0
-,Ava,112,Female,Miami,37.90173564172483,Plumber,5468.0
-,Michael,90,Male,Detroit,61.0202918178744,Plumber,7001.0
-,Henry,91,Other,Atlanta,117.61490638661223,Medic,4205.0
-,Michael,41,Male,Phoenix,92.07722846150294,Babysiter,1482.0
-,Ethan,40,Other,Las Vegas,119.479690110721,Store Asistant,3604.0
-,Ava,109,Female,Washington D.C.,73.36696411730237,Store Asistant,5082.0
-,Logan,36,Female,Detroit,65.86229885879388,Bartender,7218.0
-,Sophia,104,Other,San Diego,39.00138590386891,Youtuber,1068.0
-,Zoe,105,Male,San Francisco,65.61142416705559,Babysiter,892.0
-,Ethan,95,Female,New York,71.9200152261296,Windows Cleaner,6937.0
-,Mason,39,Other,Chicago,51.803844402488465,Periodist,7726.0
-,Lily,63,Other,San Francisco,81.25086737832157,Food Deliver,5457.0
-,Michael,95,Other,Miami,25.008967341218984,Architect,6721.0
-,Lucas,46,Female,Los Angeles,66.00986912574935,Secretary,3137.0
-,Benjamin,87,Male,Orlando,90.03284445259226,Business Man,4538.0
-,James,67,Other,Miami,92.6722215402667,Enterprises Manager,3976.0
-,Mason,22,Male,Charlotte,73.70440606225104,Food Deliver,5168.0
-,Mason,0,Other,Detroit,83.1951711693539,Medic,6481.0
-,Noah,29,Male,Philadelphia,100.17681557850425,Youtuber,6754.0
-,James,60,Male,Chicago,82.4805305026504,Programer,5749.0
+,Harper,24,Female,Houston,41.05657191433508,Carpenter,
+,Henry,84,Female,Detroit,106.57592082135166,Plumber,
+,Mia,4,Female,Minneapolis,74.6426296140696,Nurse,
+,Ava,74,Female,Nashville,90.04824783727557,Babysiter,
+,Sophia,85,Female,Las Vegas,35.54721102618609,Business Man,
+,Ella,64,Other,Dallas,79.1797291363365,Architect,
+,Ella,112,Male,Tampa,93.74182723033888,Plumber,
+,Michael,82,Male,Philadelphia,41.11168621016731,Business Man,
+,Daniel,62,Male,Chicago,116.74708994537828,Bartender,
+,Amelia,80,Other,Phoenix,35.23662248731294,Financial Manager,
+,Charlotte,49,Male,Phoenix,76.91756767002524,Nurse,
+,Olivia,14,Other,Indianapolis,89.80481819137901,Carpenter,
+,Logan,76,Male,Orlando,53.22983542354599,Bartender,
+,Ava,11,Male,Miami,92.7934290418472,Periodist,
+,Olivia,34,Male,Orlando,84.917657082348,Financial Manager,
+,Lucas,89,Other,Tampa,94.92270244610428,Financial Manager,
+,Benjamin,13,Other,Austin,92.36066827353643,Store Asistant,
+,Daniel,96,Other,Denver,109.34439113792442,Store Asistant,
+,Emma,86,Female,Detroit,90.52834769900088,Housekeeper,
+,Ava,86,Male,Seattle,69.04748222619776,Plumber,
+,Ethan,34,Male,New York,93.99448480384028,Store Asistant,
+,Grace,14,Other,Dallas,111.46683902593767,Firefigther,
+,Isabella,57,Other,San Antonio,40.213122163951326,Store Asistant,
+,Harper,107,Male,Nashville,28.31214200993601,Housekeeper,
+,Scarlett,108,Other,Houston,22.756812313904145,Fit Trainer,
+,Sophia,107,Other,Denver,85.72618916968625,Financial Manager,
+,Harper,54,Female,Nashville,25.39474528738262,Firefigther,
+,Michael,81,Male,San Antonio,104.01496246249414,Architect,
+,Liam,71,Other,Atlanta,87.77725765981849,Store Asistant,
+,Harper,78,Female,Dallas,107.2791706498613,Medic,
+,Ethan,74,Other,Houston,34.371530551986154,Fit Trainer,
+,Ava,112,Female,Miami,37.90173564172483,Plumber,
+,Michael,90,Male,Detroit,61.0202918178744,Plumber,
+,Henry,91,Other,Atlanta,117.61490638661223,Medic,
+,Michael,41,Male,Phoenix,92.07722846150294,Babysiter,
+,Ethan,40,Other,Las Vegas,119.479690110721,Store Asistant,
+,Ava,109,Female,Washington D.C.,73.36696411730237,Store Asistant,
+,Logan,36,Female,Detroit,65.86229885879388,Bartender,
+,Sophia,104,Other,San Diego,39.00138590386891,Youtuber,
+,Zoe,105,Male,San Francisco,65.61142416705559,Babysiter,
+,Ethan,95,Female,New York,71.9200152261296,Windows Cleaner,
+,Mason,39,Other,Chicago,51.80384440248847,Periodist,
+,Lily,63,Other,San Francisco,81.25086737832157,Food Deliver,
+,Michael,95,Other,Miami,25.008967341218984,Architect,
+,Lucas,46,Female,Los Angeles,66.00986912574935,Secretary,
+,Benjamin,87,Male,Orlando,90.03284445259226,Business Man,
+,James,67,Other,Miami,92.6722215402667,Enterprises Manager,
+,Mason,22,Male,Charlotte,73.70440606225104,Food Deliver,
+,Mason,0,Other,Detroit,83.1951711693539,Medic,
+,Noah,29,Male,Philadelphia,100.17681557850425,Youtuber,
+,James,60,Male,Chicago,82.4805305026504,Programer,
+,Ava,75,Male,New York,66.87781969430267,Programer,
+,Olivia,71,Male,Las Vegas,104.30970232498537,Food Deliver,
+,Sophia,39,Male,Philadelphia,31.431947487239047,Architect,
+,Charlotte,45,Female,San Francisco,22.17888628059878,Financial Manager,
+,Noah,84,Other,Miami,116.2522108850145,Store Asistant,
+,Sophia,5,Female,Minneapolis,105.90295830873588,Construction Worker,
+,Lucas,54,Female,Dallas,32.46933295879295,Medic,
+,Charlotte,65,Other,Detroit,116.07276307637778,Youtuber,
+,Mason,4,Other,Detroit,56.22242927666118,Business Man,
+,Emma,114,Other,Indianapolis,20.63752511381606,Windows Cleaner,
+,Alexander,12,Male,Charlotte,44.381655371901175,Periodist,
+,Henry,85,Female,Chicago,24.826610220947448,Postman,
+,Zoe,111,Female,Detroit,26.966560496033203,Enterprises Manager,
+,Daniel,39,Male,Houston,28.678611121935692,Bartender,
+,Mia,56,Male,Seattle,79.50835724693515,Housekeeper,
+,Daniel,77,Male,Tampa,42.07367170380529,Bartender,
+,Henry,22,Male,Austin,50.97141704180546,Medic,
+,Noah,97,Male,Philadelphia,68.70960150312344,Financial Manager,
+,Olivia,39,Female,Indianapolis,48.56841601159583,Financial Manager,
+,Olivia,45,Male,Tampa,71.86970853347945,Babysiter,
+,Henry,83,Female,Miami,26.814330510670263,Secretary,
+,Liam,42,Female,Seattle,85.80978428521246,Business Man,
+,Daniel,22,Female,Indianapolis,86.59823762203958,Housekeeper,
+,Michael,35,Male,Indianapolis,96.28733640179696,Windows Cleaner,
+,Henry,99,Female,Minneapolis,81.333277868489,Architect,
+,Charlotte,67,Female,Indianapolis,99.47120158064656,Nurse,
+,Ella,37,Female,San Francisco,79.48734071859806,Financial Manager,
+,Mia,83,Male,Chicago,26.34978176375497,Postman,
+,Harper,55,Male,Philadelphia,42.41888695593673,Food Deliver,
+,Harper,53,Female,Phoenix,111.62308021069444,Youtuber,
+,Amelia,62,Female,San Antonio,79.89193593487713,Babysiter,
+,Lucas,48,Other,San Francisco,44.0169900644413,Fit Trainer,
+,Lily,118,Male,San Diego,112.17876567326354,Bartender,
+,Noah,41,Female,Washington D.C.,24.378790516100786,Babysiter,
+,Scarlett,119,Other,Philadelphia,53.16143858467265,Bartender,
+,Ella,23,Other,Chicago,69.21411900390021,Firefigther,
+,Grace,37,Female,Phoenix,32.03999212930438,Housekeeper,
+,Alexander,63,Male,Tampa,93.93864645641696,Food Deliver,
+,Daniel,84,Female,Charlotte,41.03700254769842,Periodist,
+,Alexander,56,Female,Houston,102.86383447141168,Architect,
+,Daniel,118,Female,New York,103.23935843928062,Store Asistant,
+,Zoe,11,Male,Indianapolis,56.9236941645014,Enterprises Manager,
+,Isabella,107,Female,Houston,106.4559310306439,Police Officer,
+,Isabella,55,Female,Seattle,44.496317832051176,Programer,
+,Logan,52,Other,Boston,79.55459014573245,Business Man,
+,Charlotte,82,Other,Chicago,50.47062307661764,Store Asistant,
+,Sophia,66,Female,Tampa,117.6638417867631,Youtuber,
+,Benjamin,86,Male,Indianapolis,48.73784975326945,Construction Worker,
+,Noah,96,Female,Charlotte,42.55198784645683,Firefigther,
+,James,117,Other,Dallas,29.346097895291763,Construction Worker,
+,Scarlett,119,Male,Chicago,112.18080805467024,Secretary,
+,Noah,59,Male,Philadelphia,57.890501809221846,Financial Manager,6180.0
+,Amelia,104,Female,San Diego,79.37494679867848,Postman,3511.0
+,Daniel,33,Male,Charlotte,89.14608082499363,Firefigther,6346.0
+,Ethan,86,Other,Portland,101.46792412631227,Nurse,7491.0
+,Isabella,108,Male,Phoenix,59.73905370284028,Youtuber,7334.0
+,Michael,13,Other,Houston,84.02708097972719,Housekeeper,3425.0
+,Sophia,13,Female,Washington D.C.,83.40807618214845,Store Asistant,5137.0
+,Mason,92,Female,San Francisco,104.44835557750818,Plumber,5060.0
+,Sophia,75,Female,Boston,108.28602043800848,Secretary,5515.0
+,Henry,46,Female,Atlanta,108.50055212196435,Babysiter,7874.0
+,Lily,13,Female,Austin,56.12669393055494,Financial Manager,3743.0
+,Alexander,84,Other,Chicago,61.69721675767055,Periodist,3821.0
+,Ella,51,Female,Indianapolis,45.76852356266524,Nurse,6396.0
+,Benjamin,26,Other,San Francisco,46.74333042584666,Medic,1988.0
+,Charlotte,16,Male,Chicago,105.03056484399146,Fit Trainer,1583.0
+,Liam,97,Male,Nashville,56.79789189910683,Fit Trainer,4204.0
+,James,68,Other,Washington D.C.,64.73888236445933,Construction Worker,6560.0
+,Michael,42,Female,Houston,82.60842446427434,Periodist,940.0
+,Logan,37,Female,Seattle,98.90011210453304,Nurse,4833.0
+,Daniel,61,Male,San Francisco,59.39400580618656,Windows Cleaner,6444.0
+,Grace,19,Other,Nashville,57.869490045283364,Construction Worker,6944.0
+,Grace,26,Female,Nashville,64.20630218394673,Babysiter,5055.0
+,Mason,79,Female,Boston,22.004798700761178,Business Man,6584.0
+,Daniel,113,Male,Minneapolis,103.76455555124868,Architect,3662.0
+,Mason,35,Other,Indianapolis,98.17149321559324,Architect,998.0
+,Olivia,2,Female,Boston,110.3157533238281,Bartender,5761.0
+,Ella,94,Male,Phoenix,63.45066939353009,Architect,3903.0
+,Lucas,43,Other,Las Vegas,40.050438465370135,Food Deliver,1704.0
+,Olivia,94,Male,San Diego,104.49977043659867,Secretary,2556.0
+,Alexander,17,Other,Nashville,100.7041141824018,Firefigther,2457.0
+,Ethan,16,Other,Tampa,35.60546002351707,Architect,6792.0
+,Lucas,45,Other,Portland,104.09884997356292,Medic,2643.0
+,Henry,40,Female,Chicago,113.08734270211528,Plumber,6627.0
+,Isabella,17,Other,Washington D.C.,21.455376337118363,Housekeeper,6423.0
+,Mason,99,Male,Indianapolis,107.79215764944578,Nurse,3430.0
+,Scarlett,22,Female,Indianapolis,69.1434772777803,Windows Cleaner,1567.0
+,Ella,50,Male,Denver,84.03499197219696,Business Man,6229.0
+,Grace,25,Other,Chicago,53.204579823245936,Business Man,1645.0
+,Lily,35,Female,Las Vegas,71.29327550774464,Youtuber,4651.0
+,Michael,105,Other,Charlotte,115.7042223688823,Financial Manager,2321.0
+,Harper,89,Male,Chicago,91.34897634052314,Plumber,1798.0
+,Logan,81,Other,Indianapolis,52.089049894488284,Programer,5425.0
+,Mia,49,Male,Portland,104.19647073751777,Store Asistant,4144.0
+,Ava,96,Other,Dallas,96.08529398080378,Business Man,3106.0
+,Noah,36,Male,Phoenix,63.25437707421976,Postman,1526.0
+,Amelia,83,Female,Las Vegas,78.73820317927807,Plumber,5746.0
+,Ava,44,Female,San Diego,40.338384235764785,Youtuber,3744.0
+,Daniel,41,Male,New York,34.177614539568296,Nurse,1990.0
+,Mia,87,Male,Phoenix,61.51997002821931,Plumber,2898.0
+,Ethan,120,Female,Charlotte,115.66563747359626,Babysiter,1688.0
+,Sophia,45,Other,Portland,46.50262400263237,Programer,7421.0
