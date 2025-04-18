@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS Products(id INTEGER PRIMARY KEY AUTOINCREMENT, name VARCHAR(150) NOT NULL DEFAULT 'NA', price NUMERIC(10,2) NOT NULL DEFAULT 0, section VARCHAR(50) NOT NULL DEFAULT 'Other', storage NUMERIC(10,2), created_at TEXT DEFAULT (datetime('now', 'localtime')), updated_at TEXT DEFAULT (datetime('now', 'localtime')));

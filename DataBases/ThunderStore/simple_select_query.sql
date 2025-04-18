@@ -1,0 +1,1 @@
+SELECT * FROM Sections WHERE id <= 10;
