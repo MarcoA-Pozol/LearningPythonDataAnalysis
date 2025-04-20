@@ -1,2 +1,2 @@
 ALTER TABLE Occupations
-ADD CONSTRAINT name UNIQUE (name);
+ADD CONSTRAINT unique_occupation_name UNIQUE (name);
