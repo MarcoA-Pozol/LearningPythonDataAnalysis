@@ -58,3 +58,7 @@ def group_data_by(dataset_path:str, index:str, values:str, ag_funct:str, title:s
 
 """ Function usage """
 group_data_by('./DataSets/flights_details.xls', index='Airline', values='Passengers', ag_funct='count', ascending_order=False, title='Passengers count by airline')
+
+group_data_by('./DataSets/flights_details.xls', index='Pilot Name', values='Revenue', ag_funct='count', ascending_order=False, title='Passengers count by airline')
+
+group_data_by('./DataSets/flights_details.xls', index='Flight Type', values='Passengers', ag_funct='mean', ascending_order=False, title='Passengers count by airline')
