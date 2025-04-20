@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from IPython.display import display, Markdown
 
 # Pandas display settings
 def display_every_row_column(c_allow:bool=False, r_allow:bool=False):
