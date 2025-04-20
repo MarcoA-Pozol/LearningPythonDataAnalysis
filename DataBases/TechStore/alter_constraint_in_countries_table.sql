@@ -1,0 +1,2 @@
+ALTER TABLE Countries
+ADD CONSTRAINT name UNIQUE (name);

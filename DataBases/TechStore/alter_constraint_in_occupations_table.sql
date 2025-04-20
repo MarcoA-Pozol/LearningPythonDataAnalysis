@@ -1,0 +1,2 @@
+ALTER TABLE Occupations
+ADD CONSTRAINT name UNIQUE (name);
