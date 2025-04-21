@@ -19,16 +19,14 @@ try:
     print('Succesfully connected to postgres database!')
 except Exception as e:
     print(f'Error during connecting to default postgres database: {e}')
-    raise e
 
 try:
     # Create FlightsDB
     db_name = "FlightsDB"
-    cursor.execute(f'CREATE DATABASE IF NOT EXISTS {db_name};')
+    cursor.execute(f'CREATE DATABASE {db_name};')
     print('New database with name {} was succesfully created!'.format(db_name,))
 except Exception as e:
     print(f'Error during creating a new database with name {db_name}: {e}')
-    raise e
 finally:
     cursor.close()
     conn.close()
