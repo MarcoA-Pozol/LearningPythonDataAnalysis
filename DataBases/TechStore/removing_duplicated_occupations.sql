@@ -13,4 +13,4 @@ WITH duplicates AS (
 )
 DELETE FROM Occupations
 WHERE id NOT IN (SELECT min_id FROM duplicates)
-AND name IN (SELECT name FROM duplicates)
+AND name IN (SELECT name FROM duplicates)DROP 
