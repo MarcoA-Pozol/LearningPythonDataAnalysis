@@ -11,7 +11,7 @@ ages = df['age']
 ocupations = df['ocupation']
 print(names, ages, ocupations)
 
-# Thesen are the same than the lists we have over, they are already pd.Series 
+# These are the same than the lists we have over, they are already pd.Series 
 name_series = pd.Series(names)
 age_series = pd.Series(ages)
 ocupation_series = pd.Series(ocupations)
