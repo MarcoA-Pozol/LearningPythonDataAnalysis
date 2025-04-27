@@ -7,6 +7,9 @@ import sqlite3
 df = pd.read_excel('./DataSets/people_data.ods')
 print(df)
 
+# Save Excel as CSV
+df.to_csv('./DataSets/people_data.csv')
+
 # # Create an in-memory SQLite database
 conn = sqlite3.connect(":memory:")
 
@@ -22,6 +25,7 @@ print(result)
 query = """
     SELECT name AS Name, COUNT(*) AS NamesCount, SUM(salary) AS PotentialSalary
     FROM Population
+    WHERE name NOT NULL AND salary NOT NULL
     GROUP BY name
     ORDER BY name ASC;
 """
