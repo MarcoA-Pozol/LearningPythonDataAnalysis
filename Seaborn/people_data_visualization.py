@@ -8,7 +8,7 @@ df = pd.read_excel('./DataSets/people_data.ods')
 print(df)
 
 # Save Excel as CSV
-df.to_csv('./DataSets/people_data.csv')
+# df.to_csv('./DataSets/people_data.csv', index=False)
 
 # # Create an in-memory SQLite database
 conn = sqlite3.connect(":memory:")
@@ -32,14 +32,24 @@ query = """
 queryset_df = pd.read_sql_query(query, conn)
 print(queryset_df)
 
-# Create a bar chart for salary summation by name
-sns.barplot(x='Name', y='TotalSalary', data=queryset_df)
+# Create a figure with multiple subplots
+fig, axes = plt.subplots(2, 2, figsize=(12, 10))  # 2x2 grid of plots
 
-# Customize the plot
-plt.title("Salary Summation by Name")
-plt.xlabel("Name")
-plt.ylabel("Total Salary")
-plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
+sns.barplot(x='Name', y='TotalSalary', data=queryset_df, ax=axes[0, 0])
+axes[0, 0].set_title("Bar Plot")
+axes[0, 0].tick_params(axis='x', rotation=85)
+sns.boxplot(x='Name', y='TotalSalary', data=queryset_df, ax=axes[0, 1])
+axes[0, 1].set_title("Box Plot")
+axes[0, 1].tick_params(axis='x', rotation=85)
+sns.violinplot(x='Name', y='TotalSalary', data=queryset_df, ax=axes[1, 0])
+axes[1, 0].set_title("Violin Plot")
+axes[1, 0].tick_params(axis='x', rotation=85)
+sns.pointplot(x='Name', y='TotalSalary', data=queryset_df, ax=axes[1, 1])
+axes[1, 1].set_title("Point Plot")
+axes[1, 1].tick_params(axis='x', rotation=85)
+
+# Adjust layout to prevent overlap
+plt.tight_layout()
 
 # Show the chart
 plt.show()
