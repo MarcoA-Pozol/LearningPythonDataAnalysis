@@ -23,11 +23,23 @@ print(result)
 
 """ Get salary sumation grouped by name and visualizing it in a seaborn plot """
 query = """
-    SELECT name AS Name, COUNT(*) AS NamesCount, SUM(salary) AS PotentialSalary
+    SELECT name AS Name, COUNT(*) AS NamesCount, SUM(salary) AS TotalSalary
     FROM Population
     WHERE name NOT NULL AND salary NOT NULL
     GROUP BY name
     ORDER BY name ASC;
 """
-queryset = pd.read_sql_query(query, conn)
-print(queryset)
+queryset_df = pd.read_sql_query(query, conn)
+print(queryset_df)
+
+# Create a bar chart for salary summation by name
+sns.barplot(x='Name', y='TotalSalary', data=queryset_df)
+
+# Customize the plot
+plt.title("Salary Summation by Name")
+plt.xlabel("Name")
+plt.ylabel("Total Salary")
+plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
+
+# Show the chart
+plt.show()
