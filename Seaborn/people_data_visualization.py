@@ -17,3 +17,13 @@ df.to_sql("Population", conn, index=False, if_exists="replace")
 query = "SELECT * FROM Population WHERE age > 60"
 result = pd.read_sql_query(query, conn)
 print(result)
+
+""" Get salary sumation grouped by name and visualizing it in a seaborn plot """
+query = """
+    SELECT name AS Name, COUNT(*) AS NamesCount, SUM(salary) AS PotentialSalary
+    FROM Population
+    GROUP BY name
+    ORDER BY name ASC;
+"""
+queryset = pd.read_sql_query(query, conn)
+print(queryset)
