@@ -6,10 +6,17 @@ import sqlite3
 # Load dataset
 df = pd.read_excel('./DataSets/people_data.ods')
 
-# Save Excel as CSV
-# df.to_csv('./DataSets/people_data.csv', index=False)
+# Rename a column 'Ocupation' to 'Occupation'
+df.rename(columns={'Ocupation':'Occupation'}, inplace=True)
 
-# # Create an in-memory SQLite database
+# Load fixed dataset
+df.to_excel('./DataSets/people_data.xlsx')
+df = pd.read_excel('./DataSets/people_data.xlsx')
+
+# Save Excel as CSV
+df.to_csv('./DataSets/people_data.csv', index=False)
+
+# Create an in-memory SQLite database
 conn = sqlite3.connect(":memory:")
 
 # Write dataframe as DB table
@@ -63,9 +70,9 @@ def show_average_salary_by_occupation(execute:bool=False) -> None:
     if execute:
         """ Get avg salary grouped by occupation showing only the first 10 placed in descending order """
         query = """
-            SELECT ocupation AS Occupation, AVG(salary) AS AverageSalary
+            SELECT occupation AS Occupation, AVG(salary) AS AverageSalary
             FROM Population
-            GROUP BY ocupation
+            GROUP BY occupation
             ORDER BY AverageSalary DESC
             LIMIT 10;
         """
@@ -97,17 +104,22 @@ def show_government_support_by_cities_over_occupations(execute:bool=False) -> No
     if execute:
         """ Find cities where government is paying more for support to citizens """
         query = """
-            SELECT City, Ocupation, SUM(SupportAmount) AS SumSupportAmount
+            SELECT City, Occupation, SUM(SupportAmount) AS SumSupportAmount
             FROM Population
-            WHERE Name NOT NULL OR Salary NOT NULL
-            GROUP BY City
-            HAVING SumSupportAmount > 20000
-            LIMIT 5;
+            WHERE Name IS NOT NULL OR Salary IS NOT NULL
+            GROUP BY City, Occupation
         """
         queryset = pd.read_sql_query(query, conn)
         print(queryset)
 
-        # Barplot
+        # Heatmap
+        pivot_table = queryset.pivot(index='City', columns='Occupation', values='SumSupportAmount')
+        pivot_table.fillna(0, inplace=True) # Replace NaN with 0 for the heatmap
+        plt.figure(figsize=(14, 8))
+        sns.heatmap(pivot_table, annot=True, fmt='.0f', cmap='magma')
+        plt.title('Government Support by CIty and Occupation')
+        plt.tight_layout()  # Prevent clipping
+        plt.show()
     pass
 
 show_government_support_by_cities_over_occupations(True)

@@ -1,665 +1,665 @@
-Name,Age,Gender,City,Score,Ocupation,Salary,IsRetired,ReceiveSupport,SupportAmount
-Diana,33,Other,Houston,32.72,Babysiter,3251.0,False,False,0.0
-Edward,36,Male,Houston,35.01,Bartender,3837.0,False,False,0.0
-Jane,39,Other,New York,66.93,Bartender,2363.0,False,False,0.0
-Jane,19,Female,Phoenix,98.04,Store Asistant,3385.0,False,False,0.0
-Charlie,51,Other,Los Angeles,38.05,Programer,4776.0,False,False,0.0
-Diana,44,Male,New York,33.56,Firefigther,5460.0,False,False,0.0
-Charlie,18,Female,New York,21.02,Nurse,4632.0,False,False,0.0
-Bob,44,Male,Chicago,49.77,Business Man,2651.0,False,False,0.0
-Ian,40,Male,New York,14.11,Architect,3510.0,False,False,0.0
-Hannah,30,Male,Los Angeles,24.03,Business Man,3491.0,False,False,0.0
-Fiona,48,Female,New York,44.41,Enterprises Manager,4730.0,False,False,0.0
-Alice,54,Female,Los Angeles,77.82,Enterprises Manager,960.0,False,True,800.0
-Bob,37,Male,Phoenix,5.51,Postman,5950.0,False,False,0.0
-Jane,30,Other,New York,40.83,Fit Trainer,6121.0,False,False,0.0
-Ian,25,Male,Phoenix,78.27,Babysiter,6316.0,False,False,0.0
-Ian,60,Female,Los Angeles,60.12,Babysiter,5591.0,True,True,1000.0
-Bob,44,Male,Chicago,28.92,Windows Cleaner,1671.0,False,False,0.0
-Edward,20,Male,Chicago,25.6,Carpenter,6445.0,False,False,0.0
-Alice,27,Female,Los Angeles,44.76,Financial Manager,7067.0,False,False,0.0
-Alice,20,Other,Los Angeles,94.75,Fit Trainer,6761.0,False,False,0.0
-Diana,19,Female,New York,8.85,Medic,7434.0,False,False,0.0
-Charlie,51,Female,Houston,70.83,Medic,7166.0,False,False,0.0
-Hannah,34,Male,Houston,73.1,Windows Cleaner,1972.0,False,False,0.0
-Edward,25,Female,Houston,33.22,Fit Trainer,5503.0,False,False,0.0
-Ian,23,Female,Phoenix,0.24,Construction Worker,894.0,False,True,800.0
-Edward,40,Other,New York,54.25,Business Man,5646.0,False,False,0.0
-Ian,22,Female,Houston,34.3,Store Asistant,6776.0,False,False,0.0
-Ian,57,Male,Los Angeles,22.8,Carpenter,2535.0,False,False,0.0
-Alice,31,Female,New York,80.03,Architect,5992.0,False,False,0.0
-Diana,19,Other,Los Angeles,99.12,Construction Worker,5816.0,False,False,0.0
-Alice,54,Other,Los Angeles,23.46,Postman,7456.0,False,False,0.0
-Fiona,50,Male,Houston,28.54,Plumber,1551.0,False,False,0.0
-Bob,23,Female,Houston,51.44,Housekeeper,5151.0,False,False,0.0
-Jane,59,Male,Houston,18.74,Financial Manager,869.0,False,True,800.0
-George,37,Female,Houston,40.37,Business Man,6321.0,False,False,0.0
-Ian,34,Female,New York,16.57,Financial Manager,2106.0,False,False,0.0
-Alice,26,Female,New York,14.46,Architect,7646.0,False,False,0.0
-Fiona,23,Other,New York,30.75,Programer,4059.0,False,False,0.0
-George,44,Other,Houston,45.57,Construction Worker,1232.0,False,False,0.0
-Edward,25,Other,Chicago,16.51,Architect,5164.0,False,False,0.0
-Charlie,56,Other,New York,74.04,Secretary,7275.0,False,False,0.0
-Jane,44,Female,Phoenix,76.88,Financial Manager,5351.0,False,False,0.0
-Charlie,41,Male,New York,6.96,Medic,3403.0,False,False,0.0
-Alice,41,Other,Los Angeles,75.64,Babysiter,1929.0,False,False,0.0
-Alice,35,Female,Los Angeles,44.48,Architect,4064.0,False,False,0.0
-Bob,37,Female,New York,80.08,Architect,3477.0,False,False,0.0
-Hannah,58,Other,New York,68.65,Architect,7316.0,False,False,0.0
-Edward,19,Male,Los Angeles,17.44,Carpenter,6399.0,False,False,0.0
-Fiona,45,Female,New York,18.07,Police Officer,5441.0,False,False,0.0
-Ian,39,Female,New York,29.43,Postman,3645.0,False,False,0.0
-Diana,23,Other,Houston,52.41,Bartender,7280.0,False,False,0.0
-Bob,34,Male,Houston,71.16,Postman,6916.0,False,False,0.0
-Diana,35,Male,Phoenix,58.75,Youtuber,1691.0,False,False,0.0
-Hannah,26,Female,Los Angeles,56.02,Fit Trainer,6138.0,False,False,0.0
-Charlie,41,Other,Phoenix,51.99,Enterprises Manager,7005.0,False,False,0.0
-Jane,58,Female,Phoenix,90.3,Postman,7569.0,False,False,0.0
-Ian,24,Female,Chicago,71.38,Architect,3771.0,False,False,0.0
-Hannah,58,Male,Chicago,25.83,Windows Cleaner,7649.0,False,False,0.0
-Charlie,50,Other,Houston,64.3,Construction Worker,3168.0,False,False,0.0
-Fiona,29,Female,New York,94.62,Housekeeper,5764.0,False,False,0.0
-Fiona,39,Female,Los Angeles,36.98,Windows Cleaner,2099.0,False,False,0.0
-Jane,39,Male,Chicago,11.31,Architect,5032.0,False,False,0.0
-Edward,42,Other,Chicago,64.02,Plumber,1789.0,False,False,0.0
-Fiona,44,Female,Chicago,31.94,Fit Trainer,1056.0,False,False,0.0
-Edward,40,Male,New York,69.33,Windows Cleaner,7449.0,False,False,0.0
-Bob,38,Male,Phoenix,33.78,Carpenter,7466.0,False,False,0.0
-Fiona,43,Other,Chicago,94.54,Store Asistant,7894.0,False,False,0.0
-Fiona,31,Female,Los Angeles,32.82,Carpenter,7938.0,False,False,0.0
-Edward,28,Other,Los Angeles,90.03,Construction Worker,4586.0,False,False,0.0
-George,60,Female,New York,61.01,Youtuber,3113.0,True,True,1000.0
-Alice,21,Female,Chicago,1.05,Nurse,2885.0,False,False,0.0
-Diana,26,Other,Phoenix,85.64,Windows Cleaner,2454.0,False,False,0.0
-Edward,21,Other,New York,55.81,Postman,2021.0,False,False,0.0
-George,56,Other,Phoenix,90.52,Programer,4894.0,False,False,0.0
-Bob,33,Female,Phoenix,48.57,Bartender,4890.0,False,False,0.0
-Hannah,20,Female,Chicago,6.34,Secretary,1618.0,False,False,0.0
-Hannah,27,Other,New York,1.34,Business Man,1828.0,False,False,0.0
-Edward,49,Female,Phoenix,10.14,Food Deliver,4971.0,False,False,0.0
-Ian,21,Female,New York,20.2,Periodist,7376.0,False,False,0.0
-Bob,35,Female,Phoenix,21.76,Carpenter,6479.0,False,False,0.0
-Alice,46,Female,New York,53.16,Business Man,3092.0,False,False,0.0
-Charlie,22,Other,Houston,1.81,Architect,2230.0,False,False,0.0
-Alice,52,Female,Los Angeles,92.13,Secretary,2047.0,False,False,0.0
-Hannah,35,Female,Phoenix,88.08,Periodist,2830.0,False,False,0.0
-George,27,Female,Los Angeles,34.65,Periodist,2110.0,False,False,0.0
-Alice,36,Female,New York,94.06,Financial Manager,918.0,False,True,800.0
-Charlie,25,Other,Chicago,63.94,Housekeeper,2465.0,False,False,0.0
-Charlie,26,Other,New York,71.78,Programer,7750.0,False,False,0.0
-Hannah,37,Male,Phoenix,46.49,Youtuber,6836.0,False,False,0.0
-Charlie,19,Other,Houston,10.12,Firefigther,5347.0,False,False,0.0
-Jane,50,Other,Chicago,76.42,Windows Cleaner,2203.0,False,False,0.0
-Bob,21,Other,New York,59.0,Enterprises Manager,2162.0,False,False,0.0
-Fiona,30,Female,Phoenix,46.12,Firefigther,7454.0,False,False,0.0
-Diana,39,Female,New York,21.87,Plumber,6822.0,False,False,0.0
-Diana,43,Other,Chicago,31.1,Programer,6406.0,False,False,0.0
-Fiona,18,Male,Phoenix,46.32,Fit Trainer,2269.0,False,False,0.0
-Jane,32,Female,Los Angeles,80.0,Babysiter,6127.0,False,False,0.0
-Hannah,19,Female,New York,83.82,Windows Cleaner,1078.0,False,False,0.0
-Fiona,42,Male,Phoenix,73.77,Enterprises Manager,5518.0,False,False,0.0
-Jane,19,Male,Chicago,78.07,Medic,830.0,False,True,800.0
-Ava,22,Male,New York,0.131697977803999,,3312.0,False,False,0.0
-Daniel,19,Other,Dallas,0.369406165761645,,,False,True,800.0
-Henry,12,Female,Las Vegas,0.968155028464708,,,False,True,800.0
-Liam,100,Other,New York,0.259211390583772,,,True,True,1000.0
-Isabella,90,Male,Denver,0.439238879708385,,,True,True,1000.0
-Henry,118,Other,Los Angeles,0.741728802832964,,,True,True,1000.0
-Harper,24,Other,Atlanta,0.342415694062378,,,False,True,800.0
-Amelia,61,Male,Philadelphia,0.573225710786899,,,True,True,1000.0
-James,29,Female,Nashville,0.393616888226829,,,False,True,800.0
-Ava,13,Male,New York,0.075372359878976,,,False,True,800.0
-Noah,95,Other,Detroit,0.725696214231557,,,True,True,1000.0
-Scarlett,27,Other,Indianapolis,0.635672595337395,,,False,True,800.0
-Logan,57,Other,Philadelphia,0.245466472846954,,,False,True,800.0
-Amelia,120,Female,Tampa,0.825990270942522,,,True,True,1000.0
-Michael,12,Female,Phoenix,0.932448127604383,,,False,True,800.0
-Michael,12,Male,Phoenix,0.119096875841443,,,False,True,800.0
-Daniel,18,Male,Indianapolis,0.261493977837472,,,False,True,800.0
-Noah,34,Female,Atlanta,0.573335516659729,,,False,True,800.0
-Liam,58,Other,San Antonio,0.0086021456249054,,,False,True,800.0
-Mason,41,Female,Los Angeles,0.681796465988943,,,False,True,800.0
-Lucas,30,Other,Detroit,0.481387978091369,,,False,True,800.0
-Logan,75,Male,Seattle,0.736024126120981,,,True,True,1000.0
-Ella,75,Female,Orlando,0.749617773925629,,,True,True,1000.0
-Zoe,7,Other,San Diego,0.122156501729947,,,False,True,800.0
-James,81,Other,Phoenix,0.0882734300934737,,,True,True,1000.0
-Lucas,83,Male,Las Vegas,0.0849079459587388,,,True,True,1000.0
-Emma,74,Other,Charlotte,0.247493999110487,,,True,True,1000.0
-Isabella,38,Female,Boston,0.568070101657852,,,False,True,800.0
-Amelia,18,Other,Austin,0.66543200159682,,,False,True,800.0
-Emma,47,Male,Dallas,0.364207984630527,,,False,True,800.0
-James,81,Female,Austin,0.995937106269862,,,True,True,1000.0
-Grace,61,Female,San Diego,0.516502950498668,,,True,True,1000.0
-Lily,104,Other,Washington D.C.,0.951159762744533,,,True,True,1000.0
-Harper,75,Female,Detroit,0.521832975403426,,,True,True,1000.0
-Logan,2,Male,San Francisco,0.168820614918835,,,False,True,800.0
-Emma,33,Male,Las Vegas,0.375942299779744,,,False,True,800.0
-Olivia,10,Other,Austin,0.647130739178299,,,False,True,800.0
-Sophia,58,Female,Houston,0.713788031754928,,,False,True,800.0
-Daniel,25,Female,Portland,0.888854047667889,,,False,True,800.0
-Charlotte,14,Male,Atlanta,0.279527126798751,,,False,True,800.0
-Logan,91,Male,Charlotte,0.724094984315607,,,True,True,1000.0
-Sophia,66,Male,Charlotte,0.736546987789923,,,True,True,1000.0
-Alexander,72,Other,Charlotte,0.608388763798943,,,True,True,1000.0
-Noah,70,Other,Chicago,0.817058977914945,,,True,True,1000.0
-Ethan,57,Other,Portland,0.98456247663731,,,False,True,800.0
-Ava,29,Female,Detroit,0.452700738499089,,,False,True,800.0
-Liam,34,Other,Austin,0.249234745985972,,,False,True,800.0
-Liam,58,Male,San Antonio,0.259739858537285,,,False,True,800.0
-Ethan,15,Female,Austin,0.504833342452328,,,False,True,800.0
-James,70,Female,San Francisco,0.422329350954234,,,True,True,1000.0
-Charlotte,51,Male,San Francisco,0.673989034739814,,,False,True,800.0
-Ella,82,Male,Orlando,0.184286180131639,Architect,,True,True,1000.0
-Alexander,56,Male,Austin,0.24831442836223,Medic,,False,True,800.0
-Logan,109,Other,Philadelphia,0.326372098590812,Housekeeper,,True,True,1000.0
-Emma,15,Male,Los Angeles,0.44580483980992,Enterprises Manager,,False,True,800.0
-Emma,40,Other,Orlando,0.481913032315205,Food Deliver,,False,True,800.0
-Grace,67,Male,Charlotte,0.650869682959256,Babysiter,,True,True,1000.0
-Ella,68,Other,Los Angeles,0.178450573761781,Nurse,,True,True,1000.0
-Zoe,64,Male,Charlotte,0.884235769870722,Firefigther,,True,True,1000.0
-Harper,24,Other,Nashville,0.792753581870172,Bartender,,False,True,800.0
-Lily,52,Other,Phoenix,0.662564026620409,Secretary,,False,True,800.0
-Ella,33,Other,Philadelphia,0.499369917089128,Postman,,False,True,800.0
-Olivia,77,Male,San Diego,0.565224890265523,Bartender,,True,True,1000.0
-Olivia,76,Other,San Francisco,0.0540193542604632,Periodist,,True,True,1000.0
-James,9,Female,Tampa,0.0124525217361954,Babysiter,,False,True,800.0
-Zoe,40,Female,Austin,0.935274381174707,Financial Manager,,False,True,800.0
-Charlotte,99,Female,Denver,0.0559546750077017,Store Asistant,,True,True,1000.0
-Zoe,14,Other,Austin,0.117704770475512,Plumber,,False,True,800.0
-Amelia,44,Other,Seattle,0.114125754544065,Firefigther,,False,True,800.0
-Charlotte,8,Male,Miami,0.918031412268418,Babysiter,,False,True,800.0
-Sophia,75,Other,San Antonio,0.121240962022457,Youtuber,,True,True,1000.0
-Henry,118,Other,Houston,0.70722031915761,Plumber,,True,True,1000.0
-Zoe,29,Female,Detroit,0.246336721784039,Postman,,False,True,800.0
-Mia,56,Other,Denver,0.71324310461269,Plumber,,False,True,800.0
-Lucas,38,Other,Boston,0.0271477007296405,Fit Trainer,,False,True,800.0
-Ella,72,Other,Denver,0.448688438025872,Medic,,True,True,1000.0
-Michael,31,Male,Miami,0.538014691340345,Periodist,,False,True,800.0
-Sophia,73,Female,Minneapolis,0.500280080521198,Postman,,True,True,1000.0
-Harper,80,Female,Charlotte,0.739891608490211,Store Asistant,,True,True,1000.0
-Scarlett,31,Male,Indianapolis,0.733805238591339,Programer,,False,True,800.0
-Mia,64,Female,Atlanta,0.665412649795171,Medic,,True,True,1000.0
-Amelia,98,Female,Charlotte,0.951238943916954,Babysiter,,True,True,1000.0
-Scarlett,86,Male,San Francisco,0.827966750627183,Programer,,True,True,1000.0
-Daniel,120,Male,Indianapolis,0.919164794757776,Architect,,True,True,1000.0
-Henry,11,Female,Austin,0.682515085517062,Fit Trainer,,False,True,800.0
-Mason,98,Male,Los Angeles,0.764731322998316,Construction Worker,,True,True,1000.0
-Alexander,53,Male,Phoenix,0.752496154836684,Carpenter,,False,True,800.0
-Ethan,106,Other,Indianapolis,0.417391684046067,Food Deliver,,True,True,1000.0
-Ella,60,Other,Orlando,0.607663351072233,Enterprises Manager,,True,True,1000.0
-Alexander,44,Other,Denver,0.725024070747894,Construction Worker,,False,True,800.0
-Daniel,40,Female,Detroit,0.762746906083398,Youtuber,,False,True,800.0
-Charlotte,58,Male,Charlotte,0.822069186232477,Plumber,,False,True,800.0
-Scarlett,4,Other,Las Vegas,0.442181222928063,Secretary,,False,True,800.0
-Benjamin,75,Male,Houston,0.698095026973904,Programer,,True,True,1000.0
-Alexander,89,Male,Orlando,0.423600929071228,Store Asistant,,True,True,1000.0
-Lily,45,Male,Portland,0.776307619722819,Financial Manager,,False,True,800.0
-Ella,67,Male,Charlotte,0.789767386308974,Enterprises Manager,,True,True,1000.0
-Benjamin,66,Other,Dallas,0.412170906098182,Secretary,,True,True,1000.0
-Scarlett,30,Male,Miami,0.749192985284528,Bartender,,False,True,800.0
-Scarlett,16,Other,Indianapolis,0.662212443361347,Financial Manager,,False,True,800.0
-Liam,84,Female,Portland,0.2170756806266,Financial Manager,,True,True,1000.0
-Liam,72,Female,Austin,0.181640858892875,Bartender,,True,True,1000.0
-Ethan,4,Other,Detroit,85.37493242656,Fit Trainer,,False,True,800.0
-Henry,107,Male,Chicago,119.46664215473,Food Deliver,,True,True,1000.0
-Emma,32,Female,New York,83.5756248946155,Secretary,,False,True,800.0
-Emma,45,Male,Houston,105.304512004308,Bartender,,False,True,800.0
-Lily,5,Female,Los Angeles,39.6691561471269,Firefigther,,False,True,800.0
-Noah,82,Female,Indianapolis,26.6559252806929,Financial Manager,,True,True,1000.0
-Ella,95,Female,Tampa,87.715345012071,Programer,,True,True,1000.0
-Sophia,20,Female,Houston,117.44874167772,Windows Cleaner,,False,True,800.0
-Olivia,3,Male,Miami,42.2105764105917,Food Deliver,,False,True,800.0
-Zoe,74,Other,Indianapolis,86.6559168170513,Police Officer,,True,True,1000.0
-Alexander,118,Male,Charlotte,30.4804007564777,Windows Cleaner,,True,True,1000.0
-Charlotte,99,Male,Charlotte,73.3901393922089,Carpenter,,True,True,1000.0
-Benjamin,35,Male,Tampa,115.176258352474,Business Man,,False,True,800.0
-Henry,84,Other,Charlotte,54.6383061587579,Youtuber,,True,True,1000.0
-Ethan,39,Female,Atlanta,72.7815593521717,Periodist,,False,True,800.0
-Henry,48,Female,Tampa,41.2488620693473,Postman,,False,True,800.0
-Sophia,77,Female,Boston,89.9624898807195,Plumber,,True,True,1000.0
-Isabella,6,Female,Las Vegas,96.0699487358939,Food Deliver,,False,True,800.0
-Scarlett,73,Female,Austin,38.5305716795671,Financial Manager,,True,True,1000.0
-Scarlett,9,Female,Atlanta,100.95129290879,Bartender,,False,True,800.0
-Henry,84,Male,Nashville,95.5157437053036,Construction Worker,,True,True,1000.0
-Isabella,98,Male,Atlanta,42.3632658128999,Babysiter,,True,True,1000.0
-Henry,67,Female,Philadelphia,118.091502388257,Construction Worker,,True,True,1000.0
-Zoe,88,Male,Seattle,21.2548167520662,Postman,,True,True,1000.0
-Olivia,75,Male,Tampa,77.7224813978156,Medic,,True,True,1000.0
-Scarlett,2,Male,Las Vegas,25.1194020799798,Firefigther,,False,True,800.0
-Logan,9,Other,Los Angeles,105.84630429964,Store Asistant,,False,True,800.0
-Logan,89,Female,Houston,60.3168940437093,Secretary,,True,True,1000.0
-Harper,93,Other,Denver,108.513764899301,Nurse,,True,True,1000.0
-Noah,1,Other,San Diego,70.9518795834084,Business Man,,False,True,800.0
-Alexander,19,Female,Minneapolis,82.5108174760991,Police Officer,,False,True,800.0
-Lucas,75,Female,Las Vegas,98.7246177972717,Firefigther,,True,True,1000.0
-Ella,57,Female,Portland,31.5186783671912,Postman,,False,True,800.0
-James,72,Male,Charlotte,87.2374187546371,Financial Manager,,True,True,1000.0
-Ethan,57,Female,Detroit,79.0401200116359,Fit Trainer,,False,True,800.0
-Ella,29,Other,Austin,103.07164459288,Food Deliver,,False,True,800.0
-Liam,89,Female,Detroit,73.8427708916269,Babysiter,,True,True,1000.0
-Michael,75,Female,Atlanta,105.952006137956,Windows Cleaner,,True,True,1000.0
-Mia,49,Other,San Francisco,74.6374645595552,Architect,,False,True,800.0
-Ava,67,Male,Denver,45.3802745122931,Food Deliver,,True,True,1000.0
-Liam,44,Male,Philadelphia,101.084134534984,Architect,,False,True,800.0
-Amelia,87,Male,Denver,28.7776404442697,Food Deliver,,True,True,1000.0
-Daniel,77,Male,Los Angeles,106.096751875502,Carpenter,,True,True,1000.0
-Amelia,10,Male,Philadelphia,64.8178176203756,Babysiter,,False,True,800.0
-Isabella,79,Other,New York,70.1951616564643,Carpenter,,True,True,1000.0
-Grace,2,Male,Tampa,32.8550429957022,Firefigther,,False,True,800.0
-Ethan,21,Female,Las Vegas,94.349453338457,Architect,,False,True,800.0
-Ella,97,Female,Nashville,69.4597142972071,Medic,,True,True,1000.0
-Emma,47,Female,Minneapolis,32.9691710817336,Store Asistant,,False,True,800.0
-Charlotte,6,Other,Phoenix,35.7236836082056,Programer,,False,True,800.0
-Ethan,51,Female,Atlanta,25.8208607252265,Periodist,,False,True,800.0
-Logan,102,Female,Minneapolis,24.4502210609718,Housekeeper,,True,True,1000.0
-Amelia,75,Other,Philadelphia,25.4984353215063,Firefigther,,True,True,1000.0
-Lucas,109,Other,Seattle,63.310008210463,Enterprises Manager,,True,True,1000.0
-Grace,19,Female,San Francisco,44.2449202876772,Medic,,False,True,800.0
-Michael,54,Other,Charlotte,52.0574646128882,Plumber,,False,True,800.0
-Lily,68,Female,Austin,91.1154072489252,Carpenter,,True,True,1000.0
-Zoe,60,Male,Los Angeles,73.5965009563274,Nurse,,True,True,1000.0
-Harper,16,Female,San Antonio,49.2857089900351,Construction Worker,,False,True,800.0
-James,35,Male,Minneapolis,87.4448974578536,Postman,,False,True,800.0
-Isabella,92,Male,Washington D.C.,90.5997682843839,Youtuber,,True,True,1000.0
-Alexander,0,Female,Austin,63.1853178229424,Financial Manager,,False,True,800.0
-Logan,28,Female,Boston,41.6660244132063,Construction Worker,,False,True,800.0
-Mia,15,Female,Houston,89.4112382578922,Periodist,,False,True,800.0
-Zoe,32,Other,San Antonio,40.2277998161427,Bartender,,False,True,800.0
-Mia,32,Male,Nashville,63.4938466698736,Periodist,,False,True,800.0
-Zoe,65,Other,Detroit,46.5646660853683,Firefigther,,True,True,1000.0
-Lucas,77,Other,Minneapolis,55.2946716384438,Food Deliver,,True,True,1000.0
-Emma,49,Male,Philadelphia,32.3838410819898,Police Officer,,False,True,800.0
-Olivia,87,Female,Chicago,98.3114099732251,Fit Trainer,,True,True,1000.0
-Mia,71,Other,Austin,56.2318660406477,Firefigther,,True,True,1000.0
-Daniel,72,Female,Miami,72.9851892847513,Nurse,,True,True,1000.0
-Grace,112,Male,Denver,63.2551287096993,Medic,,True,True,1000.0
-Charlotte,81,Male,San Diego,81.6247432046594,Financial Manager,,True,True,1000.0
-Sophia,14,Other,San Diego,100.214317622895,Nurse,,False,True,800.0
-Emma,13,Female,Washington D.C.,80.1199648337051,Business Man,,False,True,800.0
-Liam,5,Other,Austin,31.0115907759034,Architect,,False,True,800.0
-Isabella,71,Other,San Antonio,109.380417296599,Store Asistant,,True,True,1000.0
-Charlotte,95,Male,Nashville,80.2411075116059,Periodist,,True,True,1000.0
-Zoe,101,Female,Phoenix,116.221168182522,Enterprises Manager,,True,True,1000.0
-Henry,117,Other,Denver,106.159537807536,Plumber,,True,True,1000.0
-Daniel,97,Female,Washington D.C.,36.1380787802556,Business Man,,True,True,1000.0
-Henry,4,Male,Miami,58.3345189148781,Youtuber,,False,True,800.0
-Alexander,13,Male,Nashville,80.975034867738,Postman,,False,True,800.0
-Noah,9,Female,Indianapolis,94.6163266637093,Windows Cleaner,,False,True,800.0
-Olivia,52,Male,Phoenix,69.4198695491526,Fit Trainer,,False,True,800.0
-Ava,9,Other,Houston,119.965349900931,Fit Trainer,,False,True,800.0
-Zoe,67,Female,Denver,81.4430200467011,Carpenter,,True,True,1000.0
-Michael,24,Female,Seattle,36.8545097725975,Bartender,,False,True,800.0
-Scarlett,84,Male,Orlando,42.9310654073993,Financial Manager,,True,True,1000.0
-Grace,65,Female,Portland,65.1748566765144,Bartender,,True,True,1000.0
-Scarlett,88,Other,Seattle,75.830994392878,Food Deliver,,True,True,1000.0
-Sophia,45,Other,San Diego,102.053744432302,Windows Cleaner,,False,True,800.0
-Harper,100,Other,Tampa,54.5688011205222,Medic,,True,True,1000.0
-Liam,91,Other,Charlotte,71.7397940473485,Plumber,,True,True,1000.0
-Harper,37,Male,Detroit,25.9084172105404,Medic,,False,True,800.0
-Liam,19,Male,Los Angeles,34.846838562802,Secretary,,False,True,800.0
-Emma,42,Other,Phoenix,75.8636404507086,Windows Cleaner,,False,True,800.0
-James,93,Female,Nashville,119.543897014657,Secretary,,True,True,1000.0
-Lily,77,Other,Charlotte,116.380303694484,Business Man,,True,True,1000.0
-Olivia,12,Other,San Diego,69.1010453193886,Secretary,,False,True,800.0
-James,87,Male,Austin,88.3345536435385,Store Asistant,,True,True,1000.0
-Harper,24,Female,Houston,41.0565719143351,Carpenter,,False,True,800.0
-Henry,84,Female,Detroit,106.575920821352,Plumber,,True,True,1000.0
-Mia,4,Female,Minneapolis,74.6426296140696,Nurse,,False,True,800.0
-Ava,74,Female,Nashville,90.0482478372756,Babysiter,,True,True,1000.0
-Sophia,85,Female,Las Vegas,35.5472110261861,Business Man,,True,True,1000.0
-Ella,64,Other,Dallas,79.1797291363365,Architect,,True,True,1000.0
-Ella,112,Male,Tampa,93.7418272303389,Plumber,,True,True,1000.0
-Michael,82,Male,Philadelphia,41.1116862101673,Business Man,,True,True,1000.0
-Daniel,62,Male,Chicago,116.747089945378,Bartender,,True,True,1000.0
-Amelia,80,Other,Phoenix,35.2366224873129,Financial Manager,,True,True,1000.0
-Charlotte,49,Male,Phoenix,76.9175676700252,Nurse,,False,True,800.0
-Olivia,14,Other,Indianapolis,89.804818191379,Carpenter,,False,True,800.0
-Logan,76,Male,Orlando,53.229835423546,Bartender,,True,True,1000.0
-Ava,11,Male,Miami,92.7934290418472,Periodist,,False,True,800.0
-Olivia,34,Male,Orlando,84.917657082348,Financial Manager,,False,True,800.0
-Lucas,89,Other,Tampa,94.9227024461043,Financial Manager,,True,True,1000.0
-Benjamin,13,Other,Austin,92.3606682735364,Store Asistant,,False,True,800.0
-Daniel,96,Other,Denver,109.344391137924,Store Asistant,,True,True,1000.0
-Emma,86,Female,Detroit,90.5283476990009,Housekeeper,,True,True,1000.0
-Ava,86,Male,Seattle,69.0474822261978,Plumber,,True,True,1000.0
-Ethan,34,Male,New York,93.9944848038403,Store Asistant,,False,True,800.0
-Grace,14,Other,Dallas,111.466839025938,Firefigther,,False,True,800.0
-Isabella,57,Other,San Antonio,40.2131221639513,Store Asistant,,False,True,800.0
-Harper,107,Male,Nashville,28.312142009936,Housekeeper,,True,True,1000.0
-Scarlett,108,Other,Houston,22.7568123139041,Fit Trainer,,True,True,1000.0
-Sophia,107,Other,Denver,85.7261891696863,Financial Manager,,True,True,1000.0
-Harper,54,Female,Nashville,25.3947452873826,Firefigther,,False,True,800.0
-Michael,81,Male,San Antonio,104.014962462494,Architect,,True,True,1000.0
-Liam,71,Other,Atlanta,87.7772576598185,Store Asistant,,True,True,1000.0
-Harper,78,Female,Dallas,107.279170649861,Medic,,True,True,1000.0
-Ethan,74,Other,Houston,34.3715305519862,Fit Trainer,,True,True,1000.0
-Ava,112,Female,Miami,37.9017356417248,Plumber,,True,True,1000.0
-Michael,90,Male,Detroit,61.0202918178744,Plumber,,True,True,1000.0
-Henry,91,Other,Atlanta,117.614906386612,Medic,,True,True,1000.0
-Michael,41,Male,Phoenix,92.0772284615029,Babysiter,,False,True,800.0
-Ethan,40,Other,Las Vegas,119.479690110721,Store Asistant,,False,True,800.0
-Ava,109,Female,Washington D.C.,73.3669641173024,Store Asistant,,True,True,1000.0
-Logan,36,Female,Detroit,65.8622988587939,Bartender,,False,True,800.0
-Sophia,104,Other,San Diego,39.0013859038689,Youtuber,,True,True,1000.0
-Zoe,105,Male,San Francisco,65.6114241670556,Babysiter,,True,True,1000.0
-Ethan,95,Female,New York,71.9200152261296,Windows Cleaner,,True,True,1000.0
-Mason,39,Other,Chicago,51.8038444024885,Periodist,,False,True,800.0
-Lily,63,Other,San Francisco,81.2508673783216,Food Deliver,,True,True,1000.0
-Michael,95,Other,Miami,25.008967341219,Architect,,True,True,1000.0
-Lucas,46,Female,Los Angeles,66.0098691257494,Secretary,,False,True,800.0
-Benjamin,87,Male,Orlando,90.0328444525923,Business Man,,True,True,1000.0
-James,67,Other,Miami,92.6722215402667,Enterprises Manager,,True,True,1000.0
-Mason,22,Male,Charlotte,73.704406062251,Food Deliver,,False,True,800.0
-Mason,0,Other,Detroit,83.1951711693539,Medic,,False,True,800.0
-Noah,29,Male,Philadelphia,100.176815578504,Youtuber,,False,True,800.0
-James,60,Male,Chicago,82.4805305026504,Programer,,True,True,1000.0
-Ava,75,Male,New York,66.8778196943027,Programer,,True,True,1000.0
-Olivia,71,Male,Las Vegas,104.309702324985,Food Deliver,,True,True,1000.0
-Sophia,39,Male,Philadelphia,31.431947487239,Architect,,False,True,800.0
-Charlotte,45,Female,San Francisco,22.1788862805988,Financial Manager,,False,True,800.0
-Noah,84,Other,Miami,116.252210885015,Store Asistant,,True,True,1000.0
-Sophia,5,Female,Minneapolis,105.902958308736,Construction Worker,,False,True,800.0
-Lucas,54,Female,Dallas,32.469332958793,Medic,,False,True,800.0
-Charlotte,65,Other,Detroit,116.072763076378,Youtuber,,True,True,1000.0
-Mason,4,Other,Detroit,56.2224292766612,Business Man,,False,True,800.0
-Emma,114,Other,Indianapolis,20.6375251138161,Windows Cleaner,,True,True,1000.0
-Alexander,12,Male,Charlotte,44.3816553719012,Periodist,,False,True,800.0
-Henry,85,Female,Chicago,24.8266102209474,Postman,,True,True,1000.0
-Zoe,111,Female,Detroit,26.9665604960332,Enterprises Manager,,True,True,1000.0
-Daniel,39,Male,Houston,28.6786111219357,Bartender,,False,True,800.0
-Mia,56,Male,Seattle,79.5083572469352,Housekeeper,,False,True,800.0
-Daniel,77,Male,Tampa,42.0736717038053,Bartender,,True,True,1000.0
-Henry,22,Male,Austin,50.9714170418055,Medic,,False,True,800.0
-Noah,97,Male,Philadelphia,68.7096015031234,Financial Manager,,True,True,1000.0
-Olivia,39,Female,Indianapolis,48.5684160115958,Financial Manager,,False,True,800.0
-Olivia,45,Male,Tampa,71.8697085334795,Babysiter,,False,True,800.0
-Henry,83,Female,Miami,26.8143305106703,Secretary,,True,True,1000.0
-Liam,42,Female,Seattle,85.8097842852125,Business Man,,False,True,800.0
-Daniel,22,Female,Indianapolis,86.5982376220396,Housekeeper,,False,True,800.0
-Michael,35,Male,Indianapolis,96.287336401797,Windows Cleaner,,False,True,800.0
-Henry,99,Female,Minneapolis,81.333277868489,Architect,,True,True,1000.0
-Charlotte,67,Female,Indianapolis,99.4712015806466,Nurse,,True,True,1000.0
-Ella,37,Female,San Francisco,79.4873407185981,Financial Manager,,False,True,800.0
-Mia,83,Male,Chicago,26.349781763755,Postman,,True,True,1000.0
-Harper,55,Male,Philadelphia,42.4188869559367,Food Deliver,,False,True,800.0
-Harper,53,Female,Phoenix,111.623080210694,Youtuber,,False,True,800.0
-Amelia,62,Female,San Antonio,79.8919359348771,Babysiter,,True,True,1000.0
-Lucas,48,Other,San Francisco,44.0169900644413,Fit Trainer,,False,True,800.0
-Lily,118,Male,San Diego,112.178765673264,Bartender,,True,True,1000.0
-Noah,41,Female,Washington D.C.,24.3787905161008,Babysiter,,False,True,800.0
-Scarlett,119,Other,Philadelphia,53.1614385846727,Bartender,,True,True,1000.0
-Ella,23,Other,Chicago,69.2141190039002,Firefigther,,False,True,800.0
-Grace,37,Female,Phoenix,32.0399921293044,Housekeeper,,False,True,800.0
-Alexander,63,Male,Tampa,93.938646456417,Food Deliver,,True,True,1000.0
-Daniel,84,Female,Charlotte,41.0370025476984,Periodist,,True,True,1000.0
-Alexander,56,Female,Houston,102.863834471412,Architect,,False,True,800.0
-Daniel,118,Female,New York,103.239358439281,Store Asistant,,True,True,1000.0
-Zoe,11,Male,Indianapolis,56.9236941645014,Enterprises Manager,,False,True,800.0
-Isabella,107,Female,Houston,106.455931030644,Police Officer,,True,True,1000.0
-Isabella,55,Female,Seattle,44.4963178320512,Programer,,False,True,800.0
-Logan,52,Other,Boston,79.5545901457325,Business Man,,False,True,800.0
-Charlotte,82,Other,Chicago,50.4706230766176,Store Asistant,,True,True,1000.0
-Sophia,66,Female,Tampa,117.663841786763,Youtuber,,True,True,1000.0
-Benjamin,86,Male,Indianapolis,48.7378497532695,Construction Worker,,True,True,1000.0
-Noah,96,Female,Charlotte,42.5519878464568,Firefigther,,True,True,1000.0
-James,117,Other,Dallas,29.3460978952918,Construction Worker,,True,True,1000.0
-Scarlett,119,Male,Chicago,112.18080805467,Secretary,,True,True,1000.0
-Noah,59,Male,Philadelphia,57.8905018092218,Financial Manager,,False,True,800.0
-Amelia,104,Female,San Diego,79.3749467986785,Postman,,True,True,1000.0
-Daniel,33,Male,Charlotte,89.1460808249936,Firefigther,,False,True,800.0
-Ethan,86,Other,Portland,101.467924126312,Nurse,,True,True,1000.0
-Isabella,108,Male,Phoenix,59.7390537028403,Youtuber,,True,True,1000.0
-Michael,13,Other,Houston,84.0270809797272,Housekeeper,,False,True,800.0
-Sophia,13,Female,Washington D.C.,83.4080761821485,Store Asistant,,False,True,800.0
-Mason,92,Female,San Francisco,104.448355577508,Plumber,,True,True,1000.0
-Sophia,75,Female,Boston,108.286020438008,Secretary,,True,True,1000.0
-Henry,46,Female,Atlanta,108.500552121964,Babysiter,,False,True,800.0
-Lily,13,Female,Austin,56.1266939305549,Financial Manager,,False,True,800.0
-Alexander,84,Other,Chicago,61.6972167576706,Periodist,,True,True,1000.0
-Ella,51,Female,Indianapolis,45.7685235626652,Nurse,,False,True,800.0
-Benjamin,26,Other,San Francisco,46.7433304258467,Medic,,False,True,800.0
-Charlotte,16,Male,Chicago,105.030564843991,Fit Trainer,,False,True,800.0
-Liam,97,Male,Nashville,56.7978918991068,Fit Trainer,,True,True,1000.0
-James,68,Other,Washington D.C.,64.7388823644593,Construction Worker,,True,True,1000.0
-Michael,42,Female,Houston,82.6084244642743,Periodist,,False,True,800.0
-Logan,37,Female,Seattle,98.900112104533,Nurse,,False,True,800.0
-Daniel,61,Male,San Francisco,59.3940058061866,Windows Cleaner,,True,True,1000.0
-Grace,19,Other,Nashville,57.8694900452834,Construction Worker,,False,True,800.0
-Grace,26,Female,Nashville,64.2063021839467,Babysiter,,False,True,800.0
-Mason,79,Female,Boston,22.0047987007612,Business Man,,True,True,1000.0
-Daniel,113,Male,Minneapolis,103.764555551249,Architect,,True,True,1000.0
-Mason,35,Other,Indianapolis,98.1714932155932,Architect,,False,True,800.0
-Olivia,2,Female,Boston,110.315753323828,Bartender,,False,True,800.0
-Ella,94,Male,Phoenix,63.4506693935301,Architect,,True,True,1000.0
-Lucas,43,Other,Las Vegas,40.0504384653701,Food Deliver,,False,True,800.0
-Olivia,94,Male,San Diego,104.499770436599,Secretary,,True,True,1000.0
-Alexander,17,Other,Nashville,100.704114182402,Firefigther,,False,True,800.0
-Ethan,16,Other,Tampa,35.6054600235171,Architect,,False,True,800.0
-Lucas,45,Other,Portland,104.098849973563,Medic,,False,True,800.0
-Henry,40,Female,Chicago,113.087342702115,Plumber,,False,True,800.0
-Isabella,17,Other,Washington D.C.,21.4553763371184,Housekeeper,,False,True,800.0
-Mason,99,Male,Indianapolis,107.792157649446,Nurse,,True,True,1000.0
-Scarlett,22,Female,Indianapolis,69.1434772777803,Windows Cleaner,,False,True,800.0
-Ella,50,Male,Denver,84.034991972197,Business Man,,False,True,800.0
-Grace,25,Other,Chicago,53.2045798232459,Business Man,,False,True,800.0
-Lily,35,Female,Las Vegas,71.2932755077446,Youtuber,,False,True,800.0
-Michael,105,Other,Charlotte,115.704222368882,Financial Manager,,True,True,1000.0
-Harper,89,Male,Chicago,91.3489763405231,Plumber,,True,True,1000.0
-Logan,81,Other,Indianapolis,52.0890498944883,Programer,,True,True,1000.0
-Mia,49,Male,Portland,104.196470737518,Store Asistant,,False,True,800.0
-Ava,96,Other,Dallas,96.0852939808038,Business Man,,True,True,1000.0
-Noah,36,Male,Phoenix,63.2543770742198,Postman,,False,True,800.0
-Amelia,83,Female,Las Vegas,78.7382031792781,Plumber,,True,True,1000.0
-Ava,44,Female,San Diego,40.3383842357648,Youtuber,,False,True,800.0
-Daniel,41,Male,New York,34.1776145395683,Nurse,,False,True,800.0
-Mia,87,Male,Phoenix,61.5199700282193,Plumber,,True,True,1000.0
-Ethan,120,Female,Charlotte,115.665637473596,Babysiter,,True,True,1000.0
-Sophia,45,Other,Portland,46.5026240026324,Programer,,False,True,800.0
-Ethan,90,Male,Denver,101.516126957424,Postman,,True,True,1000.0
-Mason,59,Female,Los Angeles,117.533528019803,Windows Cleaner,,False,True,800.0
-Sophia,17,Male,San Diego,106.527268024965,Carpenter,,False,True,800.0
-Michael,70,Male,Denver,60.151099728372,Programer,,True,True,1000.0
-Alexander,3,Male,Los Angeles,96.1833592753817,Babysiter,,False,True,800.0
-Michael,15,Female,San Antonio,99.7349730127529,Windows Cleaner,,False,True,800.0
-Amelia,84,Other,Orlando,97.5652911483316,Food Deliver,,True,True,1000.0
-Benjamin,98,Other,Austin,106.620884924302,Bartender,,True,True,1000.0
-Benjamin,62,Male,Austin,24.6271572200629,Store Asistant,,True,True,1000.0
-Olivia,42,Other,San Antonio,40.7010521942286,Windows Cleaner,,False,True,800.0
-Scarlett,63,Male,San Francisco,75.6176875132054,Nurse,,True,True,1000.0
-Mia,3,Other,Seattle,59.3460445153073,Medic,,False,True,800.0
-Scarlett,94,Other,Phoenix,48.5495017842786,Housekeeper,,True,True,1000.0
-Ava,17,Female,Miami,41.0396649528256,Architect,,False,True,800.0
-Henry,6,Female,Philadelphia,77.9283861864878,Postman,,False,True,800.0
-Mia,71,Other,Houston,112.830299067494,Construction Worker,,True,True,1000.0
-Ethan,57,Female,New York,91.317451913062,Financial Manager,,False,True,800.0
-Benjamin,12,Female,New York,27.3729289729702,Windows Cleaner,,False,True,800.0
-Amelia,117,Female,Minneapolis,48.8090626398217,Business Man,,True,True,1000.0
-Logan,89,Other,San Francisco,67.8056167811223,Periodist,,True,True,1000.0
-Henry,44,Male,Detroit,114.123288164595,Store Asistant,,False,True,800.0
-Logan,74,Male,New York,61.7348159906781,Postman,,True,True,1000.0
-Emma,115,Male,Atlanta,22.6454913612913,Construction Worker,,True,True,1000.0
-Ethan,90,Male,Chicago,96.6814811604861,Plumber,,True,True,1000.0
-Liam,19,Other,Minneapolis,65.2671383751695,Police Officer,,False,True,800.0
-Harper,0,Male,Tampa,33.7790529705367,Firefigther,,False,True,800.0
-Harper,3,Male,Seattle,90.9025565634189,Bartender,,False,True,800.0
-Charlotte,33,Other,New York,116.144607444289,Store Asistant,,False,True,800.0
-Liam,73,Other,Los Angeles,39.5634195672622,Babysiter,,True,True,1000.0
-Scarlett,60,Female,Chicago,46.751908013972,Windows Cleaner,,True,True,1000.0
-Ethan,35,Male,Nashville,36.1359459259197,Construction Worker,,False,True,800.0
-James,43,Male,Houston,66.9669395733157,Business Man,,False,True,800.0
-Mason,71,Female,Austin,88.3752048391168,Enterprises Manager,,True,True,1000.0
-Liam,69,Other,Seattle,71.7464866324757,Enterprises Manager,,True,True,1000.0
-Sophia,13,Male,Nashville,112.059358640257,Windows Cleaner,,False,True,800.0
-Noah,47,Female,Denver,43.2340122616145,Secretary,,False,True,800.0
-Mason,19,Female,Las Vegas,111.404722196097,Carpenter,,False,True,800.0
-Michael,53,Female,San Antonio,91.2964648872612,Food Deliver,,False,True,800.0
-Ethan,19,Male,Seattle,105.908951837873,Nurse,,False,True,800.0
-Amelia,35,Female,Portland,84.9204131801396,Business Man,,False,True,800.0
-Ava,103,Male,Boston,113.380596593672,Programer,,True,True,1000.0
-Charlotte,98,Female,Philadelphia,33.2758778458002,Bartender,,True,True,1000.0
-Daniel,15,Male,Miami,43.1632439238402,Secretary,,False,True,800.0
-Ella,116,Female,Minneapolis,86.3195697024974,Programer,,True,True,1000.0
-Liam,42,Other,Orlando,23.994752933757,Store Asistant,,False,True,800.0
-Olivia,81,Male,San Francisco,116.308236195416,Fit Trainer,,True,True,1000.0
-Ethan,15,Other,Phoenix,106.808480007295,Bartender,,False,True,800.0
-Logan,31,Female,Tampa,43.802894181148,Financial Manager,,False,True,800.0
-Noah,0,Male,Seattle,67.4887215977913,Police Officer,,False,True,800.0
-Daniel,49,Male,Boston,54.1985927515067,Architect,,False,True,800.0
-Zoe,120,Other,Portland,99.3829499246112,Carpenter,,True,True,1000.0
-Ava,15,Male,Indianapolis,45.0950296671049,Windows Cleaner,,False,True,800.0
-Noah,38,Male,Atlanta,29.3260996766077,Enterprises Manager,,False,True,800.0
-Lucas,107,Male,Minneapolis,71.0880342240709,Enterprises Manager,,True,True,1000.0
-Sophia,5,Other,Miami,57.7965420713739,Babysiter,,False,True,800.0
-Mia,96,Other,Orlando,35.9776255039131,Medic,,True,True,1000.0
-Ella,23,Male,Indianapolis,40.8000804513085,Enterprises Manager,,False,True,800.0
-Emma,59,Other,San Antonio,67.8976107116821,Store Asistant,,False,True,800.0
-Grace,91,Female,Indianapolis,31.2371711873727,Business Man,,True,True,1000.0
-Harper,104,Male,Miami,44.786008894169,Bartender,,True,True,1000.0
-Ethan,25,Male,Boston,83.8011946888673,Housekeeper,,False,True,800.0
-James,80,Female,Portland,36.3757835096668,Postman,,True,True,1000.0
-Ava,73,Female,Charlotte,24.0106416759769,Youtuber,,True,True,1000.0
-Zoe,108,Male,Orlando,65.7373697525403,Windows Cleaner,,True,True,1000.0
-James,87,Male,Washington D.C.,56.0747587639056,Fit Trainer,,True,True,1000.0
-Benjamin,50,Other,Indianapolis,27.5665269620739,Financial Manager,,False,True,800.0
-Ava,92,Male,Seattle,20.3429993463898,Police Officer,,True,True,1000.0
-Isabella,73,Other,Orlando,27.3328245424111,Architect,,True,True,1000.0
-Lucas,119,Other,Los Angeles,59.839168905892,Food Deliver,,True,True,1000.0
-Daniel,105,Female,Philadelphia,67.2919907807777,Enterprises Manager,,True,True,1000.0
-Daniel,109,Male,Denver,83.9281468356232,Windows Cleaner,,True,True,1000.0
-Lily,39,Female,Charlotte,29.6490055039102,Babysiter,,False,True,800.0
-Noah,66,Other,Austin,69.7518020965298,Store Asistant,,True,True,1000.0
-Alexander,80,Other,Philadelphia,106.029525853795,Plumber,,True,True,1000.0
-Lily,34,Male,San Francisco,89.3301668198297,Store Asistant,,False,True,800.0
-Charlotte,1,Male,Las Vegas,87.4753458936701,Youtuber,,False,True,800.0
-Benjamin,40,Male,Atlanta,45.1625351983034,Police Officer,,False,True,800.0
-Charlotte,106,Female,Boston,112.809890937836,Programer,,True,True,1000.0
-Mia,8,Other,Atlanta,113.686010177657,Police Officer,,False,True,800.0
-Mia,58,Female,New York,100.224089192334,Babysiter,,False,True,800.0
-James,40,Other,San Francisco,33.5624268654653,Construction Worker,,False,True,800.0
-Sophia,95,Male,Dallas,68.8826214268505,Financial Manager,,True,True,1000.0
-Ava,37,Male,Washington D.C.,24.6860946254746,Construction Worker,,False,True,800.0
-Zoe,111,Other,Atlanta,91.8695051341399,Bartender,,True,True,1000.0
-Emma,51,Female,San Diego,83.3703471282593,Postman,,False,True,800.0
-Scarlett,72,Other,San Francisco,116.764111022992,Secretary,,True,True,1000.0
-Sophia,86,Male,Tampa,110.575943971715,Babysiter,,True,True,1000.0
-Liam,44,Other,Tampa,20.2652561075089,Police Officer,,False,True,800.0
-Zoe,50,Male,Minneapolis,100.058934454849,Windows Cleaner,,False,True,800.0
-Isabella,70,Other,Austin,43.1861034802845,Fit Trainer,,True,True,1000.0
-Amelia,64,Other,San Antonio,86.0107892188897,Business Man,,True,True,1000.0
-Amelia,3,Male,Minneapolis,71.0182462946154,Financial Manager,,False,True,800.0
-Zoe,16,Other,Charlotte,71.7388858865884,Postman,,False,True,800.0
-Scarlett,76,Other,Minneapolis,80.9125511340672,Business Man,,True,True,1000.0
-Lily,62,Male,Austin,90.4087799081801,Housekeeper,,True,True,1000.0
-Daniel,1,Female,Houston,114.743073455258,Youtuber,,False,True,800.0
-Ella,51,Male,Austin,61.2893892703219,Carpenter,,False,True,800.0
-Benjamin,14,Male,Miami,22.2892049074537,Financial Manager,,False,True,800.0
-Noah,44,Other,Las Vegas,91.6267476385451,Construction Worker,,False,True,800.0
-Benjamin,45,Male,Atlanta,47.5874743349652,Police Officer,,False,True,800.0
-Ava,104,Male,Detroit,88.0113308026514,Architect,,True,True,1000.0
-Ethan,98,Other,Houston,49.8557684923569,Enterprises Manager,,True,True,1000.0
-Charlotte,99,Other,Austin,23.8382583385498,Periodist,,True,True,1000.0
-Noah,100,Other,Los Angeles,67.807472004476,Plumber,,True,True,1000.0
-Michael,22,Female,Washington D.C.,110.745857469282,Bartender,,False,True,800.0
-Scarlett,26,Female,Phoenix,53.6852139260978,Youtuber,,False,True,800.0
-Liam,15,Female,Philadelphia,93.2331628302944,Programer,,False,True,800.0
-Logan,48,Other,Nashville,80.7081528668228,Fit Trainer,,False,True,800.0
-Ethan,50,Male,Charlotte,117.735958127634,Programer,,False,True,800.0
-Sophia,45,Other,Portland,53.1991641962913,Carpenter,,False,True,800.0
-Zoe,51,Female,Boston,49.8407127279924,Periodist,,False,True,800.0
-Grace,113,Female,San Antonio,43.1800192528029,Construction Worker,,True,True,1000.0
-Scarlett,50,Female,Orlando,106.183056083535,Fit Trainer,,False,True,800.0
-Ethan,104,Other,Los Angeles,83.2633425107232,Architect,,True,True,1000.0
-Daniel,24,Female,Indianapolis,78.0254148616041,Construction Worker,,False,True,800.0
-Ethan,68,Male,Detroit,52.7374765425647,Bartender,,True,True,1000.0
-Scarlett,51,Female,Phoenix,114.764992286966,Fit Trainer,,False,True,800.0
-Olivia,104,Other,Detroit,93.1276640490573,Youtuber,,True,True,1000.0
-Alexander,47,Male,San Francisco,119.388824377798,Programer,,False,True,800.0
-Mia,51,Female,Nashville,25.0348261799419,Food Deliver,,False,True,800.0
-Isabella,10,Other,Atlanta,78.805959397973,Firefigther,,False,True,800.0
-James,48,Female,Philadelphia,73.7777388531111,Enterprises Manager,,False,True,800.0
-Benjamin,114,Other,Dallas,42.674395020654,Construction Worker,,True,True,1000.0
-Mason,22,Male,Dallas,72.9861543367973,Fit Trainer,,False,True,800.0
-Alexander,1,Male,Minneapolis,40.9683203880103,Plumber,,False,True,800.0
-Ella,5,Other,Detroit,105.887573714964,Enterprises Manager,,False,True,800.0
-Henry,7,Female,Washington D.C.,25.0730932903543,Plumber,,False,True,800.0
-Harper,113,Other,Seattle,99.6881866881724,Food Deliver,,True,True,1000.0
-Olivia,99,Other,Detroit,35.734575655396,Firefigther,,True,True,1000.0
-Logan,31,Male,Miami,77.0138895038608,Nurse,,False,True,800.0
-James,93,Male,Nashville,73.0862088398207,Programer,,True,True,1000.0
-Amelia,28,Female,Houston,64.3880553022102,Plumber,,False,True,800.0
-Mia,48,Other,Houston,41.1004179429776,Carpenter,,False,True,800.0
-Ethan,111,Other,Philadelphia,20.8699242113536,Enterprises Manager,,True,True,1000.0
-Henry,95,Male,Seattle,70.968123181719,Construction Worker,,True,True,1000.0
-James,69,Male,Las Vegas,95.6030625804542,Enterprises Manager,,True,True,1000.0
-Isabella,97,Female,Boston,27.3373958890429,Postman,,True,True,1000.0
-Charlotte,41,Female,New York,109.428802514533,Store Asistant,,False,True,800.0
-Olivia,73,Female,Nashville,45.4162918116649,Bartender,,True,True,1000.0
-Daniel,31,Male,Charlotte,64.1258015329116,Medic,,False,True,800.0
-Grace,65,Other,Houston,73.2319370668261,Periodist,,True,True,1000.0
-Amelia,53,Female,Dallas,111.164476919859,Business Man,,False,True,800.0
-Lucas,70,Other,Boston,51.8765173149501,Food Deliver,,True,True,1000.0
-Olivia,69,Other,Orlando,93.4667902385575,Store Asistant,,True,True,1000.0
-Ella,46,Other,Atlanta,32.443348133276,Police Officer,,False,True,800.0
-Mia,114,Other,Los Angeles,61.4594152681721,Postman,,True,True,1000.0
-Grace,56,Female,Detroit,39.3762409313285,Fit Trainer,,False,True,800.0
-Henry,21,Female,Indianapolis,87.9720011165693,Periodist,,False,True,800.0
-Isabella,14,Female,Las Vegas,66.5476626244334,Store Asistant,,False,True,800.0
-Daniel,109,Female,Detroit,94.2002212536279,Enterprises Manager,,True,True,1000.0
-Noah,25,Female,Indianapolis,43.4589184032529,Windows Cleaner,,False,True,800.0
-Zoe,50,Male,Phoenix,62.6612185495967,Nurse,,False,True,800.0
-Logan,110,Female,Las Vegas,96.0298073901715,Youtuber,,True,True,1000.0
-Ella,94,Other,Denver,64.8587742307543,Windows Cleaner,4142.0,True,True,1000.0
-Grace,9,Male,Las Vegas,33.2510344088918,Bartender,5228.0,False,False,0.0
-Mason,38,Female,Las Vegas,100.583897934172,Postman,5651.0,False,False,0.0
-Harper,67,Female,Minneapolis,116.071253661614,Medic,1779.0,True,True,1000.0
-Alexander,46,Other,New York,36.8040447846558,Periodist,1645.0,False,False,0.0
-Henry,82,Female,Los Angeles,31.7171953831483,Housekeeper,2770.0,True,True,1000.0
-Amelia,96,Other,Minneapolis,85.7643192993932,Plumber,3042.0,True,True,1000.0
-Amelia,17,Male,Seattle,89.4587621726667,Windows Cleaner,4088.0,False,False,0.0
-Emma,13,Other,Chicago,101.126680045715,Programer,6763.0,False,False,0.0
-James,7,Other,Phoenix,79.3872303954437,Periodist,4003.0,False,False,0.0
-Ella,68,Female,Las Vegas,93.1871327411477,Food Deliver,1742.0,True,True,1000.0
-Ava,110,Male,Atlanta,30.8975811887322,Postman,7281.0,True,True,1000.0
-Olivia,116,Other,San Diego,88.8526568401833,Housekeeper,4718.0,True,True,1000.0
-Michael,85,Other,Houston,40.1121343640275,Periodist,4999.0,True,True,1000.0
-Olivia,105,Other,Houston,63.4022616957102,Fit Trainer,2066.0,True,True,1000.0
-Ethan,40,Male,Indianapolis,23.1012619358229,Firefigther,4616.0,False,False,0.0
-Mia,87,Female,Los Angeles,100.341363563624,Nurse,7459.0,True,True,1000.0
-Henry,70,Female,Phoenix,65.3695315430039,Enterprises Manager,6334.0,True,True,1000.0
-Ella,111,Female,Minneapolis,45.8682892662746,Youtuber,3666.0,True,True,1000.0
-Mason,106,Male,Dallas,68.8798929150665,Financial Manager,5776.0,True,True,1000.0
-Ethan,110,Male,Austin,116.443199173754,Store Asistant,1444.0,True,True,1000.0
-Liam,106,Male,Boston,51.9548164685028,Food Deliver,3044.0,True,True,1000.0
-Henry,24,Female,Minneapolis,69.4741033042337,Nurse,3115.0,False,False,0.0
-Amelia,15,Other,Orlando,59.1826611434581,Periodist,7516.0,False,False,0.0
-Harper,65,Male,Los Angeles,49.1407073031099,Secretary,5673.0,True,True,1000.0
-Michael,54,Male,Las Vegas,83.1051108321583,Nurse,1191.0,False,False,0.0
-Olivia,110,Other,Austin,84.5253978109734,Periodist,2687.0,True,True,1000.0
-Emma,4,Other,Orlando,68.6057494505828,Architect,4846.0,False,False,0.0
-Isabella,57,Female,Tampa,23.258121609544,Secretary,2252.0,False,False,0.0
-Scarlett,54,Other,Houston,114.160050389978,Bartender,6583.0,False,False,0.0
-Daniel,107,Female,Phoenix,88.2726819748126,Business Man,3101.0,True,True,1000.0
-Logan,31,Male,Miami,75.8248222263451,Postman,5441.0,False,False,0.0
-Lucas,91,Male,Indianapolis,26.3518564620473,Housekeeper,4821.0,True,True,1000.0
-Zoe,91,Male,San Francisco,72.6691056042451,Financial Manager,5026.0,True,True,1000.0
-Sophia,68,Male,Atlanta,90.2652281990548,Youtuber,1064.0,True,True,1000.0
-Ella,14,Other,Miami,111.196143721089,Carpenter,4612.0,False,False,0.0
-Scarlett,98,Male,Houston,50.5359231335107,Enterprises Manager,1959.0,True,True,1000.0
-Charlotte,14,Male,Phoenix,101.241976151327,Fit Trainer,7985.0,False,False,0.0
-Olivia,1,Other,Denver,44.4596059287101,Financial Manager,4391.0,False,False,0.0
-Lily,43,Female,Miami,87.3960464342549,Police Officer,1557.0,False,False,0.0
-Grace,106,Other,Boston,88.3704095202661,Windows Cleaner,7225.0,True,True,1000.0
-Lucas,33,Male,Miami,98.4115619835493,Windows Cleaner,3851.0,False,False,0.0
-Harper,18,Male,Atlanta,114.891866875076,Financial Manager,3027.0,False,False,0.0
-Daniel,12,Other,Boston,98.3087394261579,Fit Trainer,2550.0,False,False,0.0
-Michael,67,Female,New York,95.068792163814,Construction Worker,5736.0,True,True,1000.0
-Ethan,31,Male,Miami,44.6308378769295,Fit Trainer,6625.0,False,False,0.0
-Harper,42,Male,Tampa,118.089600361952,Windows Cleaner,4628.0,False,False,0.0
-Liam,76,Male,Minneapolis,37.6538210206497,Housekeeper,6604.0,True,True,1000.0
-Ethan,107,Female,Minneapolis,64.4367679498788,Architect,3901.0,True,True,1000.0
-Mason,81,Female,Portland,80.1805295018987,Babysiter,3005.0,True,True,1000.0
-Liam,58,Male,Austin,108.10982552493,Police Officer,1144.0,False,False,0.0
-John,28,Male,Oklahoma,45250.0,Dishwasher,980.0,False,True,800.0
-Carlos,36,Male,New York,21050.0,Dishwasher,1150.0,False,False,0.0
-Tania,21,Male,Detroit,14550.0,Dishwasher,860.0,False,True,800.0
+Unnamed: 0,Name,Age,Gender,City,Score,Occupation,Salary,IsRetired,ReceiveSupport,SupportAmount
+0,Diana,33,Other,Houston,32.72,Babysiter,3251.0,False,False,0
+1,Edward,36,Male,Houston,35.01,Bartender,3837.0,False,False,0
+2,Jane,39,Other,New York,66.93,Bartender,2363.0,False,False,0
+3,Jane,19,Female,Phoenix,98.04,Store Asistant,3385.0,False,False,0
+4,Charlie,51,Other,Los Angeles,38.05,Programer,4776.0,False,False,0
+5,Diana,44,Male,New York,33.56,Firefigther,5460.0,False,False,0
+6,Charlie,18,Female,New York,21.02,Nurse,4632.0,False,False,0
+7,Bob,44,Male,Chicago,49.77,Business Man,2651.0,False,False,0
+8,Ian,40,Male,New York,14.11,Architect,3510.0,False,False,0
+9,Hannah,30,Male,Los Angeles,24.03,Business Man,3491.0,False,False,0
+10,Fiona,48,Female,New York,44.41,Enterprises Manager,4730.0,False,False,0
+11,Alice,54,Female,Los Angeles,77.82,Enterprises Manager,960.0,False,True,800
+12,Bob,37,Male,Phoenix,5.51,Postman,5950.0,False,False,0
+13,Jane,30,Other,New York,40.83,Fit Trainer,6121.0,False,False,0
+14,Ian,25,Male,Phoenix,78.27,Babysiter,6316.0,False,False,0
+15,Ian,60,Female,Los Angeles,60.12,Babysiter,5591.0,True,True,1000
+16,Bob,44,Male,Chicago,28.92,Windows Cleaner,1671.0,False,False,0
+17,Edward,20,Male,Chicago,25.6,Carpenter,6445.0,False,False,0
+18,Alice,27,Female,Los Angeles,44.76,Financial Manager,7067.0,False,False,0
+19,Alice,20,Other,Los Angeles,94.75,Fit Trainer,6761.0,False,False,0
+20,Diana,19,Female,New York,8.85,Medic,7434.0,False,False,0
+21,Charlie,51,Female,Houston,70.83,Medic,7166.0,False,False,0
+22,Hannah,34,Male,Houston,73.1,Windows Cleaner,1972.0,False,False,0
+23,Edward,25,Female,Houston,33.22,Fit Trainer,5503.0,False,False,0
+24,Ian,23,Female,Phoenix,0.24,Construction Worker,894.0,False,True,800
+25,Edward,40,Other,New York,54.25,Business Man,5646.0,False,False,0
+26,Ian,22,Female,Houston,34.3,Store Asistant,6776.0,False,False,0
+27,Ian,57,Male,Los Angeles,22.8,Carpenter,2535.0,False,False,0
+28,Alice,31,Female,New York,80.03,Architect,5992.0,False,False,0
+29,Diana,19,Other,Los Angeles,99.12,Construction Worker,5816.0,False,False,0
+30,Alice,54,Other,Los Angeles,23.46,Postman,7456.0,False,False,0
+31,Fiona,50,Male,Houston,28.54,Plumber,1551.0,False,False,0
+32,Bob,23,Female,Houston,51.44,Housekeeper,5151.0,False,False,0
+33,Jane,59,Male,Houston,18.74,Financial Manager,869.0,False,True,800
+34,George,37,Female,Houston,40.37,Business Man,6321.0,False,False,0
+35,Ian,34,Female,New York,16.57,Financial Manager,2106.0,False,False,0
+36,Alice,26,Female,New York,14.46,Architect,7646.0,False,False,0
+37,Fiona,23,Other,New York,30.75,Programer,4059.0,False,False,0
+38,George,44,Other,Houston,45.57,Construction Worker,1232.0,False,False,0
+39,Edward,25,Other,Chicago,16.51,Architect,5164.0,False,False,0
+40,Charlie,56,Other,New York,74.04,Secretary,7275.0,False,False,0
+41,Jane,44,Female,Phoenix,76.88,Financial Manager,5351.0,False,False,0
+42,Charlie,41,Male,New York,6.96,Medic,3403.0,False,False,0
+43,Alice,41,Other,Los Angeles,75.64,Babysiter,1929.0,False,False,0
+44,Alice,35,Female,Los Angeles,44.48,Architect,4064.0,False,False,0
+45,Bob,37,Female,New York,80.08,Architect,3477.0,False,False,0
+46,Hannah,58,Other,New York,68.65,Architect,7316.0,False,False,0
+47,Edward,19,Male,Los Angeles,17.44,Carpenter,6399.0,False,False,0
+48,Fiona,45,Female,New York,18.07,Police Officer,5441.0,False,False,0
+49,Ian,39,Female,New York,29.43,Postman,3645.0,False,False,0
+50,Diana,23,Other,Houston,52.41,Bartender,7280.0,False,False,0
+51,Bob,34,Male,Houston,71.16,Postman,6916.0,False,False,0
+52,Diana,35,Male,Phoenix,58.75,Youtuber,1691.0,False,False,0
+53,Hannah,26,Female,Los Angeles,56.02,Fit Trainer,6138.0,False,False,0
+54,Charlie,41,Other,Phoenix,51.99,Enterprises Manager,7005.0,False,False,0
+55,Jane,58,Female,Phoenix,90.3,Postman,7569.0,False,False,0
+56,Ian,24,Female,Chicago,71.38,Architect,3771.0,False,False,0
+57,Hannah,58,Male,Chicago,25.83,Windows Cleaner,7649.0,False,False,0
+58,Charlie,50,Other,Houston,64.3,Construction Worker,3168.0,False,False,0
+59,Fiona,29,Female,New York,94.62,Housekeeper,5764.0,False,False,0
+60,Fiona,39,Female,Los Angeles,36.98,Windows Cleaner,2099.0,False,False,0
+61,Jane,39,Male,Chicago,11.31,Architect,5032.0,False,False,0
+62,Edward,42,Other,Chicago,64.02,Plumber,1789.0,False,False,0
+63,Fiona,44,Female,Chicago,31.94,Fit Trainer,1056.0,False,False,0
+64,Edward,40,Male,New York,69.33,Windows Cleaner,7449.0,False,False,0
+65,Bob,38,Male,Phoenix,33.78,Carpenter,7466.0,False,False,0
+66,Fiona,43,Other,Chicago,94.54,Store Asistant,7894.0,False,False,0
+67,Fiona,31,Female,Los Angeles,32.82,Carpenter,7938.0,False,False,0
+68,Edward,28,Other,Los Angeles,90.03,Construction Worker,4586.0,False,False,0
+69,George,60,Female,New York,61.01,Youtuber,3113.0,True,True,1000
+70,Alice,21,Female,Chicago,1.05,Nurse,2885.0,False,False,0
+71,Diana,26,Other,Phoenix,85.64,Windows Cleaner,2454.0,False,False,0
+72,Edward,21,Other,New York,55.81,Postman,2021.0,False,False,0
+73,George,56,Other,Phoenix,90.52,Programer,4894.0,False,False,0
+74,Bob,33,Female,Phoenix,48.57,Bartender,4890.0,False,False,0
+75,Hannah,20,Female,Chicago,6.34,Secretary,1618.0,False,False,0
+76,Hannah,27,Other,New York,1.34,Business Man,1828.0,False,False,0
+77,Edward,49,Female,Phoenix,10.14,Food Deliver,4971.0,False,False,0
+78,Ian,21,Female,New York,20.2,Periodist,7376.0,False,False,0
+79,Bob,35,Female,Phoenix,21.76,Carpenter,6479.0,False,False,0
+80,Alice,46,Female,New York,53.16,Business Man,3092.0,False,False,0
+81,Charlie,22,Other,Houston,1.81,Architect,2230.0,False,False,0
+82,Alice,52,Female,Los Angeles,92.13,Secretary,2047.0,False,False,0
+83,Hannah,35,Female,Phoenix,88.08,Periodist,2830.0,False,False,0
+84,George,27,Female,Los Angeles,34.65,Periodist,2110.0,False,False,0
+85,Alice,36,Female,New York,94.06,Financial Manager,918.0,False,True,800
+86,Charlie,25,Other,Chicago,63.94,Housekeeper,2465.0,False,False,0
+87,Charlie,26,Other,New York,71.78,Programer,7750.0,False,False,0
+88,Hannah,37,Male,Phoenix,46.49,Youtuber,6836.0,False,False,0
+89,Charlie,19,Other,Houston,10.12,Firefigther,5347.0,False,False,0
+90,Jane,50,Other,Chicago,76.42,Windows Cleaner,2203.0,False,False,0
+91,Bob,21,Other,New York,59.0,Enterprises Manager,2162.0,False,False,0
+92,Fiona,30,Female,Phoenix,46.12,Firefigther,7454.0,False,False,0
+93,Diana,39,Female,New York,21.87,Plumber,6822.0,False,False,0
+94,Diana,43,Other,Chicago,31.1,Programer,6406.0,False,False,0
+95,Fiona,18,Male,Phoenix,46.32,Fit Trainer,2269.0,False,False,0
+96,Jane,32,Female,Los Angeles,80.0,Babysiter,6127.0,False,False,0
+97,Hannah,19,Female,New York,83.82,Windows Cleaner,1078.0,False,False,0
+98,Fiona,42,Male,Phoenix,73.77,Enterprises Manager,5518.0,False,False,0
+99,Jane,19,Male,Chicago,78.07,Medic,830.0,False,True,800
+100,Ava,22,Male,New York,0.131697977803999,,3312.0,False,False,0
+101,Daniel,19,Other,Dallas,0.369406165761645,,,False,True,800
+102,Henry,12,Female,Las Vegas,0.968155028464708,,,False,True,800
+103,Liam,100,Other,New York,0.259211390583772,,,True,True,1000
+104,Isabella,90,Male,Denver,0.439238879708385,,,True,True,1000
+105,Henry,118,Other,Los Angeles,0.741728802832964,,,True,True,1000
+106,Harper,24,Other,Atlanta,0.342415694062378,,,False,True,800
+107,Amelia,61,Male,Philadelphia,0.573225710786899,,,True,True,1000
+108,James,29,Female,Nashville,0.393616888226829,,,False,True,800
+109,Ava,13,Male,New York,0.075372359878976,,,False,True,800
+110,Noah,95,Other,Detroit,0.725696214231557,,,True,True,1000
+111,Scarlett,27,Other,Indianapolis,0.635672595337395,,,False,True,800
+112,Logan,57,Other,Philadelphia,0.245466472846954,,,False,True,800
+113,Amelia,120,Female,Tampa,0.825990270942522,,,True,True,1000
+114,Michael,12,Female,Phoenix,0.932448127604383,,,False,True,800
+115,Michael,12,Male,Phoenix,0.119096875841443,,,False,True,800
+116,Daniel,18,Male,Indianapolis,0.261493977837472,,,False,True,800
+117,Noah,34,Female,Atlanta,0.573335516659729,,,False,True,800
+118,Liam,58,Other,San Antonio,0.0086021456249054,,,False,True,800
+119,Mason,41,Female,Los Angeles,0.681796465988943,,,False,True,800
+120,Lucas,30,Other,Detroit,0.481387978091369,,,False,True,800
+121,Logan,75,Male,Seattle,0.736024126120981,,,True,True,1000
+122,Ella,75,Female,Orlando,0.749617773925629,,,True,True,1000
+123,Zoe,7,Other,San Diego,0.122156501729947,,,False,True,800
+124,James,81,Other,Phoenix,0.0882734300934737,,,True,True,1000
+125,Lucas,83,Male,Las Vegas,0.0849079459587388,,,True,True,1000
+126,Emma,74,Other,Charlotte,0.247493999110487,,,True,True,1000
+127,Isabella,38,Female,Boston,0.568070101657852,,,False,True,800
+128,Amelia,18,Other,Austin,0.66543200159682,,,False,True,800
+129,Emma,47,Male,Dallas,0.364207984630527,,,False,True,800
+130,James,81,Female,Austin,0.995937106269862,,,True,True,1000
+131,Grace,61,Female,San Diego,0.516502950498668,,,True,True,1000
+132,Lily,104,Other,Washington D.C.,0.951159762744533,,,True,True,1000
+133,Harper,75,Female,Detroit,0.521832975403426,,,True,True,1000
+134,Logan,2,Male,San Francisco,0.168820614918835,,,False,True,800
+135,Emma,33,Male,Las Vegas,0.375942299779744,,,False,True,800
+136,Olivia,10,Other,Austin,0.647130739178299,,,False,True,800
+137,Sophia,58,Female,Houston,0.713788031754928,,,False,True,800
+138,Daniel,25,Female,Portland,0.888854047667889,,,False,True,800
+139,Charlotte,14,Male,Atlanta,0.279527126798751,,,False,True,800
+140,Logan,91,Male,Charlotte,0.724094984315607,,,True,True,1000
+141,Sophia,66,Male,Charlotte,0.736546987789923,,,True,True,1000
+142,Alexander,72,Other,Charlotte,0.608388763798943,,,True,True,1000
+143,Noah,70,Other,Chicago,0.817058977914945,,,True,True,1000
+144,Ethan,57,Other,Portland,0.98456247663731,,,False,True,800
+145,Ava,29,Female,Detroit,0.452700738499089,,,False,True,800
+146,Liam,34,Other,Austin,0.249234745985972,,,False,True,800
+147,Liam,58,Male,San Antonio,0.259739858537285,,,False,True,800
+148,Ethan,15,Female,Austin,0.504833342452328,,,False,True,800
+149,James,70,Female,San Francisco,0.422329350954234,,,True,True,1000
+150,Charlotte,51,Male,San Francisco,0.673989034739814,,,False,True,800
+151,Ella,82,Male,Orlando,0.184286180131639,Architect,,True,True,1000
+152,Alexander,56,Male,Austin,0.24831442836223,Medic,,False,True,800
+153,Logan,109,Other,Philadelphia,0.326372098590812,Housekeeper,,True,True,1000
+154,Emma,15,Male,Los Angeles,0.44580483980992,Enterprises Manager,,False,True,800
+155,Emma,40,Other,Orlando,0.481913032315205,Food Deliver,,False,True,800
+156,Grace,67,Male,Charlotte,0.650869682959256,Babysiter,,True,True,1000
+157,Ella,68,Other,Los Angeles,0.178450573761781,Nurse,,True,True,1000
+158,Zoe,64,Male,Charlotte,0.884235769870722,Firefigther,,True,True,1000
+159,Harper,24,Other,Nashville,0.792753581870172,Bartender,,False,True,800
+160,Lily,52,Other,Phoenix,0.662564026620409,Secretary,,False,True,800
+161,Ella,33,Other,Philadelphia,0.499369917089128,Postman,,False,True,800
+162,Olivia,77,Male,San Diego,0.565224890265523,Bartender,,True,True,1000
+163,Olivia,76,Other,San Francisco,0.0540193542604632,Periodist,,True,True,1000
+164,James,9,Female,Tampa,0.0124525217361954,Babysiter,,False,True,800
+165,Zoe,40,Female,Austin,0.935274381174707,Financial Manager,,False,True,800
+166,Charlotte,99,Female,Denver,0.0559546750077017,Store Asistant,,True,True,1000
+167,Zoe,14,Other,Austin,0.117704770475512,Plumber,,False,True,800
+168,Amelia,44,Other,Seattle,0.114125754544065,Firefigther,,False,True,800
+169,Charlotte,8,Male,Miami,0.918031412268418,Babysiter,,False,True,800
+170,Sophia,75,Other,San Antonio,0.121240962022457,Youtuber,,True,True,1000
+171,Henry,118,Other,Houston,0.70722031915761,Plumber,,True,True,1000
+172,Zoe,29,Female,Detroit,0.246336721784039,Postman,,False,True,800
+173,Mia,56,Other,Denver,0.71324310461269,Plumber,,False,True,800
+174,Lucas,38,Other,Boston,0.0271477007296405,Fit Trainer,,False,True,800
+175,Ella,72,Other,Denver,0.448688438025872,Medic,,True,True,1000
+176,Michael,31,Male,Miami,0.538014691340345,Periodist,,False,True,800
+177,Sophia,73,Female,Minneapolis,0.500280080521198,Postman,,True,True,1000
+178,Harper,80,Female,Charlotte,0.739891608490211,Store Asistant,,True,True,1000
+179,Scarlett,31,Male,Indianapolis,0.733805238591339,Programer,,False,True,800
+180,Mia,64,Female,Atlanta,0.665412649795171,Medic,,True,True,1000
+181,Amelia,98,Female,Charlotte,0.951238943916954,Babysiter,,True,True,1000
+182,Scarlett,86,Male,San Francisco,0.827966750627183,Programer,,True,True,1000
+183,Daniel,120,Male,Indianapolis,0.919164794757776,Architect,,True,True,1000
+184,Henry,11,Female,Austin,0.682515085517062,Fit Trainer,,False,True,800
+185,Mason,98,Male,Los Angeles,0.764731322998316,Construction Worker,,True,True,1000
+186,Alexander,53,Male,Phoenix,0.752496154836684,Carpenter,,False,True,800
+187,Ethan,106,Other,Indianapolis,0.417391684046067,Food Deliver,,True,True,1000
+188,Ella,60,Other,Orlando,0.607663351072233,Enterprises Manager,,True,True,1000
+189,Alexander,44,Other,Denver,0.725024070747894,Construction Worker,,False,True,800
+190,Daniel,40,Female,Detroit,0.762746906083398,Youtuber,,False,True,800
+191,Charlotte,58,Male,Charlotte,0.822069186232477,Plumber,,False,True,800
+192,Scarlett,4,Other,Las Vegas,0.442181222928063,Secretary,,False,True,800
+193,Benjamin,75,Male,Houston,0.698095026973904,Programer,,True,True,1000
+194,Alexander,89,Male,Orlando,0.423600929071228,Store Asistant,,True,True,1000
+195,Lily,45,Male,Portland,0.776307619722819,Financial Manager,,False,True,800
+196,Ella,67,Male,Charlotte,0.789767386308974,Enterprises Manager,,True,True,1000
+197,Benjamin,66,Other,Dallas,0.412170906098182,Secretary,,True,True,1000
+198,Scarlett,30,Male,Miami,0.749192985284528,Bartender,,False,True,800
+199,Scarlett,16,Other,Indianapolis,0.662212443361347,Financial Manager,,False,True,800
+200,Liam,84,Female,Portland,0.2170756806266,Financial Manager,,True,True,1000
+201,Liam,72,Female,Austin,0.181640858892875,Bartender,,True,True,1000
+202,Ethan,4,Other,Detroit,85.37493242656,Fit Trainer,,False,True,800
+203,Henry,107,Male,Chicago,119.46664215473,Food Deliver,,True,True,1000
+204,Emma,32,Female,New York,83.5756248946155,Secretary,,False,True,800
+205,Emma,45,Male,Houston,105.304512004308,Bartender,,False,True,800
+206,Lily,5,Female,Los Angeles,39.6691561471269,Firefigther,,False,True,800
+207,Noah,82,Female,Indianapolis,26.6559252806929,Financial Manager,,True,True,1000
+208,Ella,95,Female,Tampa,87.715345012071,Programer,,True,True,1000
+209,Sophia,20,Female,Houston,117.44874167772,Windows Cleaner,,False,True,800
+210,Olivia,3,Male,Miami,42.2105764105917,Food Deliver,,False,True,800
+211,Zoe,74,Other,Indianapolis,86.6559168170513,Police Officer,,True,True,1000
+212,Alexander,118,Male,Charlotte,30.4804007564777,Windows Cleaner,,True,True,1000
+213,Charlotte,99,Male,Charlotte,73.3901393922089,Carpenter,,True,True,1000
+214,Benjamin,35,Male,Tampa,115.176258352474,Business Man,,False,True,800
+215,Henry,84,Other,Charlotte,54.6383061587579,Youtuber,,True,True,1000
+216,Ethan,39,Female,Atlanta,72.7815593521717,Periodist,,False,True,800
+217,Henry,48,Female,Tampa,41.2488620693473,Postman,,False,True,800
+218,Sophia,77,Female,Boston,89.9624898807195,Plumber,,True,True,1000
+219,Isabella,6,Female,Las Vegas,96.0699487358939,Food Deliver,,False,True,800
+220,Scarlett,73,Female,Austin,38.5305716795671,Financial Manager,,True,True,1000
+221,Scarlett,9,Female,Atlanta,100.95129290879,Bartender,,False,True,800
+222,Henry,84,Male,Nashville,95.5157437053036,Construction Worker,,True,True,1000
+223,Isabella,98,Male,Atlanta,42.3632658128999,Babysiter,,True,True,1000
+224,Henry,67,Female,Philadelphia,118.091502388257,Construction Worker,,True,True,1000
+225,Zoe,88,Male,Seattle,21.2548167520662,Postman,,True,True,1000
+226,Olivia,75,Male,Tampa,77.7224813978156,Medic,,True,True,1000
+227,Scarlett,2,Male,Las Vegas,25.1194020799798,Firefigther,,False,True,800
+228,Logan,9,Other,Los Angeles,105.84630429964,Store Asistant,,False,True,800
+229,Logan,89,Female,Houston,60.3168940437093,Secretary,,True,True,1000
+230,Harper,93,Other,Denver,108.513764899301,Nurse,,True,True,1000
+231,Noah,1,Other,San Diego,70.9518795834084,Business Man,,False,True,800
+232,Alexander,19,Female,Minneapolis,82.5108174760991,Police Officer,,False,True,800
+233,Lucas,75,Female,Las Vegas,98.7246177972717,Firefigther,,True,True,1000
+234,Ella,57,Female,Portland,31.5186783671912,Postman,,False,True,800
+235,James,72,Male,Charlotte,87.2374187546371,Financial Manager,,True,True,1000
+236,Ethan,57,Female,Detroit,79.0401200116359,Fit Trainer,,False,True,800
+237,Ella,29,Other,Austin,103.07164459288,Food Deliver,,False,True,800
+238,Liam,89,Female,Detroit,73.8427708916269,Babysiter,,True,True,1000
+239,Michael,75,Female,Atlanta,105.952006137956,Windows Cleaner,,True,True,1000
+240,Mia,49,Other,San Francisco,74.6374645595552,Architect,,False,True,800
+241,Ava,67,Male,Denver,45.3802745122931,Food Deliver,,True,True,1000
+242,Liam,44,Male,Philadelphia,101.084134534984,Architect,,False,True,800
+243,Amelia,87,Male,Denver,28.7776404442697,Food Deliver,,True,True,1000
+244,Daniel,77,Male,Los Angeles,106.096751875502,Carpenter,,True,True,1000
+245,Amelia,10,Male,Philadelphia,64.8178176203756,Babysiter,,False,True,800
+246,Isabella,79,Other,New York,70.1951616564643,Carpenter,,True,True,1000
+247,Grace,2,Male,Tampa,32.8550429957022,Firefigther,,False,True,800
+248,Ethan,21,Female,Las Vegas,94.349453338457,Architect,,False,True,800
+249,Ella,97,Female,Nashville,69.4597142972071,Medic,,True,True,1000
+250,Emma,47,Female,Minneapolis,32.9691710817336,Store Asistant,,False,True,800
+251,Charlotte,6,Other,Phoenix,35.7236836082056,Programer,,False,True,800
+252,Ethan,51,Female,Atlanta,25.8208607252265,Periodist,,False,True,800
+253,Logan,102,Female,Minneapolis,24.4502210609718,Housekeeper,,True,True,1000
+254,Amelia,75,Other,Philadelphia,25.4984353215063,Firefigther,,True,True,1000
+255,Lucas,109,Other,Seattle,63.310008210463,Enterprises Manager,,True,True,1000
+256,Grace,19,Female,San Francisco,44.2449202876772,Medic,,False,True,800
+257,Michael,54,Other,Charlotte,52.0574646128882,Plumber,,False,True,800
+258,Lily,68,Female,Austin,91.1154072489252,Carpenter,,True,True,1000
+259,Zoe,60,Male,Los Angeles,73.5965009563274,Nurse,,True,True,1000
+260,Harper,16,Female,San Antonio,49.2857089900351,Construction Worker,,False,True,800
+261,James,35,Male,Minneapolis,87.4448974578536,Postman,,False,True,800
+262,Isabella,92,Male,Washington D.C.,90.5997682843839,Youtuber,,True,True,1000
+263,Alexander,0,Female,Austin,63.1853178229424,Financial Manager,,False,True,800
+264,Logan,28,Female,Boston,41.6660244132063,Construction Worker,,False,True,800
+265,Mia,15,Female,Houston,89.4112382578922,Periodist,,False,True,800
+266,Zoe,32,Other,San Antonio,40.2277998161427,Bartender,,False,True,800
+267,Mia,32,Male,Nashville,63.4938466698736,Periodist,,False,True,800
+268,Zoe,65,Other,Detroit,46.5646660853683,Firefigther,,True,True,1000
+269,Lucas,77,Other,Minneapolis,55.2946716384438,Food Deliver,,True,True,1000
+270,Emma,49,Male,Philadelphia,32.3838410819898,Police Officer,,False,True,800
+271,Olivia,87,Female,Chicago,98.3114099732251,Fit Trainer,,True,True,1000
+272,Mia,71,Other,Austin,56.2318660406477,Firefigther,,True,True,1000
+273,Daniel,72,Female,Miami,72.9851892847513,Nurse,,True,True,1000
+274,Grace,112,Male,Denver,63.2551287096993,Medic,,True,True,1000
+275,Charlotte,81,Male,San Diego,81.6247432046594,Financial Manager,,True,True,1000
+276,Sophia,14,Other,San Diego,100.214317622895,Nurse,,False,True,800
+277,Emma,13,Female,Washington D.C.,80.1199648337051,Business Man,,False,True,800
+278,Liam,5,Other,Austin,31.0115907759034,Architect,,False,True,800
+279,Isabella,71,Other,San Antonio,109.380417296599,Store Asistant,,True,True,1000
+280,Charlotte,95,Male,Nashville,80.2411075116059,Periodist,,True,True,1000
+281,Zoe,101,Female,Phoenix,116.221168182522,Enterprises Manager,,True,True,1000
+282,Henry,117,Other,Denver,106.159537807536,Plumber,,True,True,1000
+283,Daniel,97,Female,Washington D.C.,36.1380787802556,Business Man,,True,True,1000
+284,Henry,4,Male,Miami,58.3345189148781,Youtuber,,False,True,800
+285,Alexander,13,Male,Nashville,80.975034867738,Postman,,False,True,800
+286,Noah,9,Female,Indianapolis,94.6163266637093,Windows Cleaner,,False,True,800
+287,Olivia,52,Male,Phoenix,69.4198695491526,Fit Trainer,,False,True,800
+288,Ava,9,Other,Houston,119.965349900931,Fit Trainer,,False,True,800
+289,Zoe,67,Female,Denver,81.4430200467011,Carpenter,,True,True,1000
+290,Michael,24,Female,Seattle,36.8545097725975,Bartender,,False,True,800
+291,Scarlett,84,Male,Orlando,42.9310654073993,Financial Manager,,True,True,1000
+292,Grace,65,Female,Portland,65.1748566765144,Bartender,,True,True,1000
+293,Scarlett,88,Other,Seattle,75.830994392878,Food Deliver,,True,True,1000
+294,Sophia,45,Other,San Diego,102.053744432302,Windows Cleaner,,False,True,800
+295,Harper,100,Other,Tampa,54.5688011205222,Medic,,True,True,1000
+296,Liam,91,Other,Charlotte,71.7397940473485,Plumber,,True,True,1000
+297,Harper,37,Male,Detroit,25.9084172105404,Medic,,False,True,800
+298,Liam,19,Male,Los Angeles,34.846838562802,Secretary,,False,True,800
+299,Emma,42,Other,Phoenix,75.8636404507086,Windows Cleaner,,False,True,800
+300,James,93,Female,Nashville,119.543897014657,Secretary,,True,True,1000
+301,Lily,77,Other,Charlotte,116.380303694484,Business Man,,True,True,1000
+302,Olivia,12,Other,San Diego,69.1010453193886,Secretary,,False,True,800
+303,James,87,Male,Austin,88.3345536435385,Store Asistant,,True,True,1000
+304,Harper,24,Female,Houston,41.0565719143351,Carpenter,,False,True,800
+305,Henry,84,Female,Detroit,106.575920821352,Plumber,,True,True,1000
+306,Mia,4,Female,Minneapolis,74.6426296140696,Nurse,,False,True,800
+307,Ava,74,Female,Nashville,90.0482478372756,Babysiter,,True,True,1000
+308,Sophia,85,Female,Las Vegas,35.5472110261861,Business Man,,True,True,1000
+309,Ella,64,Other,Dallas,79.1797291363365,Architect,,True,True,1000
+310,Ella,112,Male,Tampa,93.7418272303389,Plumber,,True,True,1000
+311,Michael,82,Male,Philadelphia,41.1116862101673,Business Man,,True,True,1000
+312,Daniel,62,Male,Chicago,116.747089945378,Bartender,,True,True,1000
+313,Amelia,80,Other,Phoenix,35.2366224873129,Financial Manager,,True,True,1000
+314,Charlotte,49,Male,Phoenix,76.9175676700252,Nurse,,False,True,800
+315,Olivia,14,Other,Indianapolis,89.804818191379,Carpenter,,False,True,800
+316,Logan,76,Male,Orlando,53.229835423546,Bartender,,True,True,1000
+317,Ava,11,Male,Miami,92.7934290418472,Periodist,,False,True,800
+318,Olivia,34,Male,Orlando,84.917657082348,Financial Manager,,False,True,800
+319,Lucas,89,Other,Tampa,94.9227024461043,Financial Manager,,True,True,1000
+320,Benjamin,13,Other,Austin,92.3606682735364,Store Asistant,,False,True,800
+321,Daniel,96,Other,Denver,109.344391137924,Store Asistant,,True,True,1000
+322,Emma,86,Female,Detroit,90.5283476990009,Housekeeper,,True,True,1000
+323,Ava,86,Male,Seattle,69.0474822261978,Plumber,,True,True,1000
+324,Ethan,34,Male,New York,93.9944848038403,Store Asistant,,False,True,800
+325,Grace,14,Other,Dallas,111.466839025938,Firefigther,,False,True,800
+326,Isabella,57,Other,San Antonio,40.2131221639513,Store Asistant,,False,True,800
+327,Harper,107,Male,Nashville,28.312142009936,Housekeeper,,True,True,1000
+328,Scarlett,108,Other,Houston,22.7568123139041,Fit Trainer,,True,True,1000
+329,Sophia,107,Other,Denver,85.7261891696863,Financial Manager,,True,True,1000
+330,Harper,54,Female,Nashville,25.3947452873826,Firefigther,,False,True,800
+331,Michael,81,Male,San Antonio,104.014962462494,Architect,,True,True,1000
+332,Liam,71,Other,Atlanta,87.7772576598185,Store Asistant,,True,True,1000
+333,Harper,78,Female,Dallas,107.279170649861,Medic,,True,True,1000
+334,Ethan,74,Other,Houston,34.3715305519862,Fit Trainer,,True,True,1000
+335,Ava,112,Female,Miami,37.9017356417248,Plumber,,True,True,1000
+336,Michael,90,Male,Detroit,61.0202918178744,Plumber,,True,True,1000
+337,Henry,91,Other,Atlanta,117.614906386612,Medic,,True,True,1000
+338,Michael,41,Male,Phoenix,92.0772284615029,Babysiter,,False,True,800
+339,Ethan,40,Other,Las Vegas,119.479690110721,Store Asistant,,False,True,800
+340,Ava,109,Female,Washington D.C.,73.3669641173024,Store Asistant,,True,True,1000
+341,Logan,36,Female,Detroit,65.8622988587939,Bartender,,False,True,800
+342,Sophia,104,Other,San Diego,39.0013859038689,Youtuber,,True,True,1000
+343,Zoe,105,Male,San Francisco,65.6114241670556,Babysiter,,True,True,1000
+344,Ethan,95,Female,New York,71.9200152261296,Windows Cleaner,,True,True,1000
+345,Mason,39,Other,Chicago,51.8038444024885,Periodist,,False,True,800
+346,Lily,63,Other,San Francisco,81.2508673783216,Food Deliver,,True,True,1000
+347,Michael,95,Other,Miami,25.008967341219,Architect,,True,True,1000
+348,Lucas,46,Female,Los Angeles,66.0098691257494,Secretary,,False,True,800
+349,Benjamin,87,Male,Orlando,90.0328444525923,Business Man,,True,True,1000
+350,James,67,Other,Miami,92.6722215402667,Enterprises Manager,,True,True,1000
+351,Mason,22,Male,Charlotte,73.704406062251,Food Deliver,,False,True,800
+352,Mason,0,Other,Detroit,83.1951711693539,Medic,,False,True,800
+353,Noah,29,Male,Philadelphia,100.176815578504,Youtuber,,False,True,800
+354,James,60,Male,Chicago,82.4805305026504,Programer,,True,True,1000
+355,Ava,75,Male,New York,66.8778196943027,Programer,,True,True,1000
+356,Olivia,71,Male,Las Vegas,104.309702324985,Food Deliver,,True,True,1000
+357,Sophia,39,Male,Philadelphia,31.431947487239,Architect,,False,True,800
+358,Charlotte,45,Female,San Francisco,22.1788862805988,Financial Manager,,False,True,800
+359,Noah,84,Other,Miami,116.252210885015,Store Asistant,,True,True,1000
+360,Sophia,5,Female,Minneapolis,105.902958308736,Construction Worker,,False,True,800
+361,Lucas,54,Female,Dallas,32.469332958793,Medic,,False,True,800
+362,Charlotte,65,Other,Detroit,116.072763076378,Youtuber,,True,True,1000
+363,Mason,4,Other,Detroit,56.2224292766612,Business Man,,False,True,800
+364,Emma,114,Other,Indianapolis,20.6375251138161,Windows Cleaner,,True,True,1000
+365,Alexander,12,Male,Charlotte,44.3816553719012,Periodist,,False,True,800
+366,Henry,85,Female,Chicago,24.8266102209474,Postman,,True,True,1000
+367,Zoe,111,Female,Detroit,26.9665604960332,Enterprises Manager,,True,True,1000
+368,Daniel,39,Male,Houston,28.6786111219357,Bartender,,False,True,800
+369,Mia,56,Male,Seattle,79.5083572469352,Housekeeper,,False,True,800
+370,Daniel,77,Male,Tampa,42.0736717038053,Bartender,,True,True,1000
+371,Henry,22,Male,Austin,50.9714170418055,Medic,,False,True,800
+372,Noah,97,Male,Philadelphia,68.7096015031234,Financial Manager,,True,True,1000
+373,Olivia,39,Female,Indianapolis,48.5684160115958,Financial Manager,,False,True,800
+374,Olivia,45,Male,Tampa,71.8697085334795,Babysiter,,False,True,800
+375,Henry,83,Female,Miami,26.8143305106703,Secretary,,True,True,1000
+376,Liam,42,Female,Seattle,85.8097842852125,Business Man,,False,True,800
+377,Daniel,22,Female,Indianapolis,86.5982376220396,Housekeeper,,False,True,800
+378,Michael,35,Male,Indianapolis,96.287336401797,Windows Cleaner,,False,True,800
+379,Henry,99,Female,Minneapolis,81.333277868489,Architect,,True,True,1000
+380,Charlotte,67,Female,Indianapolis,99.4712015806466,Nurse,,True,True,1000
+381,Ella,37,Female,San Francisco,79.4873407185981,Financial Manager,,False,True,800
+382,Mia,83,Male,Chicago,26.349781763755,Postman,,True,True,1000
+383,Harper,55,Male,Philadelphia,42.4188869559367,Food Deliver,,False,True,800
+384,Harper,53,Female,Phoenix,111.623080210694,Youtuber,,False,True,800
+385,Amelia,62,Female,San Antonio,79.8919359348771,Babysiter,,True,True,1000
+386,Lucas,48,Other,San Francisco,44.0169900644413,Fit Trainer,,False,True,800
+387,Lily,118,Male,San Diego,112.178765673264,Bartender,,True,True,1000
+388,Noah,41,Female,Washington D.C.,24.3787905161008,Babysiter,,False,True,800
+389,Scarlett,119,Other,Philadelphia,53.1614385846727,Bartender,,True,True,1000
+390,Ella,23,Other,Chicago,69.2141190039002,Firefigther,,False,True,800
+391,Grace,37,Female,Phoenix,32.0399921293044,Housekeeper,,False,True,800
+392,Alexander,63,Male,Tampa,93.938646456417,Food Deliver,,True,True,1000
+393,Daniel,84,Female,Charlotte,41.0370025476984,Periodist,,True,True,1000
+394,Alexander,56,Female,Houston,102.863834471412,Architect,,False,True,800
+395,Daniel,118,Female,New York,103.239358439281,Store Asistant,,True,True,1000
+396,Zoe,11,Male,Indianapolis,56.9236941645014,Enterprises Manager,,False,True,800
+397,Isabella,107,Female,Houston,106.455931030644,Police Officer,,True,True,1000
+398,Isabella,55,Female,Seattle,44.4963178320512,Programer,,False,True,800
+399,Logan,52,Other,Boston,79.5545901457325,Business Man,,False,True,800
+400,Charlotte,82,Other,Chicago,50.4706230766176,Store Asistant,,True,True,1000
+401,Sophia,66,Female,Tampa,117.663841786763,Youtuber,,True,True,1000
+402,Benjamin,86,Male,Indianapolis,48.7378497532695,Construction Worker,,True,True,1000
+403,Noah,96,Female,Charlotte,42.5519878464568,Firefigther,,True,True,1000
+404,James,117,Other,Dallas,29.3460978952918,Construction Worker,,True,True,1000
+405,Scarlett,119,Male,Chicago,112.18080805467,Secretary,,True,True,1000
+406,Noah,59,Male,Philadelphia,57.8905018092218,Financial Manager,,False,True,800
+407,Amelia,104,Female,San Diego,79.3749467986785,Postman,,True,True,1000
+408,Daniel,33,Male,Charlotte,89.1460808249936,Firefigther,,False,True,800
+409,Ethan,86,Other,Portland,101.467924126312,Nurse,,True,True,1000
+410,Isabella,108,Male,Phoenix,59.7390537028403,Youtuber,,True,True,1000
+411,Michael,13,Other,Houston,84.0270809797272,Housekeeper,,False,True,800
+412,Sophia,13,Female,Washington D.C.,83.4080761821485,Store Asistant,,False,True,800
+413,Mason,92,Female,San Francisco,104.448355577508,Plumber,,True,True,1000
+414,Sophia,75,Female,Boston,108.286020438008,Secretary,,True,True,1000
+415,Henry,46,Female,Atlanta,108.500552121964,Babysiter,,False,True,800
+416,Lily,13,Female,Austin,56.1266939305549,Financial Manager,,False,True,800
+417,Alexander,84,Other,Chicago,61.6972167576706,Periodist,,True,True,1000
+418,Ella,51,Female,Indianapolis,45.7685235626652,Nurse,,False,True,800
+419,Benjamin,26,Other,San Francisco,46.7433304258467,Medic,,False,True,800
+420,Charlotte,16,Male,Chicago,105.030564843991,Fit Trainer,,False,True,800
+421,Liam,97,Male,Nashville,56.7978918991068,Fit Trainer,,True,True,1000
+422,James,68,Other,Washington D.C.,64.7388823644593,Construction Worker,,True,True,1000
+423,Michael,42,Female,Houston,82.6084244642743,Periodist,,False,True,800
+424,Logan,37,Female,Seattle,98.900112104533,Nurse,,False,True,800
+425,Daniel,61,Male,San Francisco,59.3940058061866,Windows Cleaner,,True,True,1000
+426,Grace,19,Other,Nashville,57.8694900452834,Construction Worker,,False,True,800
+427,Grace,26,Female,Nashville,64.2063021839467,Babysiter,,False,True,800
+428,Mason,79,Female,Boston,22.0047987007612,Business Man,,True,True,1000
+429,Daniel,113,Male,Minneapolis,103.764555551249,Architect,,True,True,1000
+430,Mason,35,Other,Indianapolis,98.1714932155932,Architect,,False,True,800
+431,Olivia,2,Female,Boston,110.315753323828,Bartender,,False,True,800
+432,Ella,94,Male,Phoenix,63.4506693935301,Architect,,True,True,1000
+433,Lucas,43,Other,Las Vegas,40.0504384653701,Food Deliver,,False,True,800
+434,Olivia,94,Male,San Diego,104.499770436599,Secretary,,True,True,1000
+435,Alexander,17,Other,Nashville,100.704114182402,Firefigther,,False,True,800
+436,Ethan,16,Other,Tampa,35.6054600235171,Architect,,False,True,800
+437,Lucas,45,Other,Portland,104.098849973563,Medic,,False,True,800
+438,Henry,40,Female,Chicago,113.087342702115,Plumber,,False,True,800
+439,Isabella,17,Other,Washington D.C.,21.4553763371184,Housekeeper,,False,True,800
+440,Mason,99,Male,Indianapolis,107.792157649446,Nurse,,True,True,1000
+441,Scarlett,22,Female,Indianapolis,69.1434772777803,Windows Cleaner,,False,True,800
+442,Ella,50,Male,Denver,84.034991972197,Business Man,,False,True,800
+443,Grace,25,Other,Chicago,53.2045798232459,Business Man,,False,True,800
+444,Lily,35,Female,Las Vegas,71.2932755077446,Youtuber,,False,True,800
+445,Michael,105,Other,Charlotte,115.704222368882,Financial Manager,,True,True,1000
+446,Harper,89,Male,Chicago,91.3489763405231,Plumber,,True,True,1000
+447,Logan,81,Other,Indianapolis,52.0890498944883,Programer,,True,True,1000
+448,Mia,49,Male,Portland,104.196470737518,Store Asistant,,False,True,800
+449,Ava,96,Other,Dallas,96.0852939808038,Business Man,,True,True,1000
+450,Noah,36,Male,Phoenix,63.2543770742198,Postman,,False,True,800
+451,Amelia,83,Female,Las Vegas,78.7382031792781,Plumber,,True,True,1000
+452,Ava,44,Female,San Diego,40.3383842357648,Youtuber,,False,True,800
+453,Daniel,41,Male,New York,34.1776145395683,Nurse,,False,True,800
+454,Mia,87,Male,Phoenix,61.5199700282193,Plumber,,True,True,1000
+455,Ethan,120,Female,Charlotte,115.665637473596,Babysiter,,True,True,1000
+456,Sophia,45,Other,Portland,46.5026240026324,Programer,,False,True,800
+457,Ethan,90,Male,Denver,101.516126957424,Postman,,True,True,1000
+458,Mason,59,Female,Los Angeles,117.533528019803,Windows Cleaner,,False,True,800
+459,Sophia,17,Male,San Diego,106.527268024965,Carpenter,,False,True,800
+460,Michael,70,Male,Denver,60.151099728372,Programer,,True,True,1000
+461,Alexander,3,Male,Los Angeles,96.1833592753817,Babysiter,,False,True,800
+462,Michael,15,Female,San Antonio,99.7349730127529,Windows Cleaner,,False,True,800
+463,Amelia,84,Other,Orlando,97.5652911483316,Food Deliver,,True,True,1000
+464,Benjamin,98,Other,Austin,106.620884924302,Bartender,,True,True,1000
+465,Benjamin,62,Male,Austin,24.6271572200629,Store Asistant,,True,True,1000
+466,Olivia,42,Other,San Antonio,40.7010521942286,Windows Cleaner,,False,True,800
+467,Scarlett,63,Male,San Francisco,75.6176875132054,Nurse,,True,True,1000
+468,Mia,3,Other,Seattle,59.3460445153073,Medic,,False,True,800
+469,Scarlett,94,Other,Phoenix,48.5495017842786,Housekeeper,,True,True,1000
+470,Ava,17,Female,Miami,41.0396649528256,Architect,,False,True,800
+471,Henry,6,Female,Philadelphia,77.9283861864878,Postman,,False,True,800
+472,Mia,71,Other,Houston,112.830299067494,Construction Worker,,True,True,1000
+473,Ethan,57,Female,New York,91.317451913062,Financial Manager,,False,True,800
+474,Benjamin,12,Female,New York,27.3729289729702,Windows Cleaner,,False,True,800
+475,Amelia,117,Female,Minneapolis,48.8090626398217,Business Man,,True,True,1000
+476,Logan,89,Other,San Francisco,67.8056167811223,Periodist,,True,True,1000
+477,Henry,44,Male,Detroit,114.123288164595,Store Asistant,,False,True,800
+478,Logan,74,Male,New York,61.7348159906781,Postman,,True,True,1000
+479,Emma,115,Male,Atlanta,22.6454913612913,Construction Worker,,True,True,1000
+480,Ethan,90,Male,Chicago,96.6814811604861,Plumber,,True,True,1000
+481,Liam,19,Other,Minneapolis,65.2671383751695,Police Officer,,False,True,800
+482,Harper,0,Male,Tampa,33.7790529705367,Firefigther,,False,True,800
+483,Harper,3,Male,Seattle,90.9025565634189,Bartender,,False,True,800
+484,Charlotte,33,Other,New York,116.144607444289,Store Asistant,,False,True,800
+485,Liam,73,Other,Los Angeles,39.5634195672622,Babysiter,,True,True,1000
+486,Scarlett,60,Female,Chicago,46.751908013972,Windows Cleaner,,True,True,1000
+487,Ethan,35,Male,Nashville,36.1359459259197,Construction Worker,,False,True,800
+488,James,43,Male,Houston,66.9669395733157,Business Man,,False,True,800
+489,Mason,71,Female,Austin,88.3752048391168,Enterprises Manager,,True,True,1000
+490,Liam,69,Other,Seattle,71.7464866324757,Enterprises Manager,,True,True,1000
+491,Sophia,13,Male,Nashville,112.059358640257,Windows Cleaner,,False,True,800
+492,Noah,47,Female,Denver,43.2340122616145,Secretary,,False,True,800
+493,Mason,19,Female,Las Vegas,111.404722196097,Carpenter,,False,True,800
+494,Michael,53,Female,San Antonio,91.2964648872612,Food Deliver,,False,True,800
+495,Ethan,19,Male,Seattle,105.908951837873,Nurse,,False,True,800
+496,Amelia,35,Female,Portland,84.9204131801396,Business Man,,False,True,800
+497,Ava,103,Male,Boston,113.380596593672,Programer,,True,True,1000
+498,Charlotte,98,Female,Philadelphia,33.2758778458002,Bartender,,True,True,1000
+499,Daniel,15,Male,Miami,43.1632439238402,Secretary,,False,True,800
+500,Ella,116,Female,Minneapolis,86.3195697024974,Programer,,True,True,1000
+501,Liam,42,Other,Orlando,23.994752933757,Store Asistant,,False,True,800
+502,Olivia,81,Male,San Francisco,116.308236195416,Fit Trainer,,True,True,1000
+503,Ethan,15,Other,Phoenix,106.808480007295,Bartender,,False,True,800
+504,Logan,31,Female,Tampa,43.802894181148,Financial Manager,,False,True,800
+505,Noah,0,Male,Seattle,67.4887215977913,Police Officer,,False,True,800
+506,Daniel,49,Male,Boston,54.1985927515067,Architect,,False,True,800
+507,Zoe,120,Other,Portland,99.3829499246112,Carpenter,,True,True,1000
+508,Ava,15,Male,Indianapolis,45.0950296671049,Windows Cleaner,,False,True,800
+509,Noah,38,Male,Atlanta,29.3260996766077,Enterprises Manager,,False,True,800
+510,Lucas,107,Male,Minneapolis,71.0880342240709,Enterprises Manager,,True,True,1000
+511,Sophia,5,Other,Miami,57.7965420713739,Babysiter,,False,True,800
+512,Mia,96,Other,Orlando,35.9776255039131,Medic,,True,True,1000
+513,Ella,23,Male,Indianapolis,40.8000804513085,Enterprises Manager,,False,True,800
+514,Emma,59,Other,San Antonio,67.8976107116821,Store Asistant,,False,True,800
+515,Grace,91,Female,Indianapolis,31.2371711873727,Business Man,,True,True,1000
+516,Harper,104,Male,Miami,44.786008894169,Bartender,,True,True,1000
+517,Ethan,25,Male,Boston,83.8011946888673,Housekeeper,,False,True,800
+518,James,80,Female,Portland,36.3757835096668,Postman,,True,True,1000
+519,Ava,73,Female,Charlotte,24.0106416759769,Youtuber,,True,True,1000
+520,Zoe,108,Male,Orlando,65.7373697525403,Windows Cleaner,,True,True,1000
+521,James,87,Male,Washington D.C.,56.0747587639056,Fit Trainer,,True,True,1000
+522,Benjamin,50,Other,Indianapolis,27.5665269620739,Financial Manager,,False,True,800
+523,Ava,92,Male,Seattle,20.3429993463898,Police Officer,,True,True,1000
+524,Isabella,73,Other,Orlando,27.3328245424111,Architect,,True,True,1000
+525,Lucas,119,Other,Los Angeles,59.839168905892,Food Deliver,,True,True,1000
+526,Daniel,105,Female,Philadelphia,67.2919907807777,Enterprises Manager,,True,True,1000
+527,Daniel,109,Male,Denver,83.9281468356232,Windows Cleaner,,True,True,1000
+528,Lily,39,Female,Charlotte,29.6490055039102,Babysiter,,False,True,800
+529,Noah,66,Other,Austin,69.7518020965298,Store Asistant,,True,True,1000
+530,Alexander,80,Other,Philadelphia,106.029525853795,Plumber,,True,True,1000
+531,Lily,34,Male,San Francisco,89.3301668198297,Store Asistant,,False,True,800
+532,Charlotte,1,Male,Las Vegas,87.4753458936701,Youtuber,,False,True,800
+533,Benjamin,40,Male,Atlanta,45.1625351983034,Police Officer,,False,True,800
+534,Charlotte,106,Female,Boston,112.809890937836,Programer,,True,True,1000
+535,Mia,8,Other,Atlanta,113.686010177657,Police Officer,,False,True,800
+536,Mia,58,Female,New York,100.224089192334,Babysiter,,False,True,800
+537,James,40,Other,San Francisco,33.5624268654653,Construction Worker,,False,True,800
+538,Sophia,95,Male,Dallas,68.8826214268505,Financial Manager,,True,True,1000
+539,Ava,37,Male,Washington D.C.,24.6860946254746,Construction Worker,,False,True,800
+540,Zoe,111,Other,Atlanta,91.8695051341399,Bartender,,True,True,1000
+541,Emma,51,Female,San Diego,83.3703471282593,Postman,,False,True,800
+542,Scarlett,72,Other,San Francisco,116.764111022992,Secretary,,True,True,1000
+543,Sophia,86,Male,Tampa,110.575943971715,Babysiter,,True,True,1000
+544,Liam,44,Other,Tampa,20.2652561075089,Police Officer,,False,True,800
+545,Zoe,50,Male,Minneapolis,100.058934454849,Windows Cleaner,,False,True,800
+546,Isabella,70,Other,Austin,43.1861034802845,Fit Trainer,,True,True,1000
+547,Amelia,64,Other,San Antonio,86.0107892188897,Business Man,,True,True,1000
+548,Amelia,3,Male,Minneapolis,71.0182462946154,Financial Manager,,False,True,800
+549,Zoe,16,Other,Charlotte,71.7388858865884,Postman,,False,True,800
+550,Scarlett,76,Other,Minneapolis,80.9125511340672,Business Man,,True,True,1000
+551,Lily,62,Male,Austin,90.4087799081801,Housekeeper,,True,True,1000
+552,Daniel,1,Female,Houston,114.743073455258,Youtuber,,False,True,800
+553,Ella,51,Male,Austin,61.2893892703219,Carpenter,,False,True,800
+554,Benjamin,14,Male,Miami,22.2892049074537,Financial Manager,,False,True,800
+555,Noah,44,Other,Las Vegas,91.6267476385451,Construction Worker,,False,True,800
+556,Benjamin,45,Male,Atlanta,47.5874743349652,Police Officer,,False,True,800
+557,Ava,104,Male,Detroit,88.0113308026514,Architect,,True,True,1000
+558,Ethan,98,Other,Houston,49.8557684923569,Enterprises Manager,,True,True,1000
+559,Charlotte,99,Other,Austin,23.8382583385498,Periodist,,True,True,1000
+560,Noah,100,Other,Los Angeles,67.807472004476,Plumber,,True,True,1000
+561,Michael,22,Female,Washington D.C.,110.745857469282,Bartender,,False,True,800
+562,Scarlett,26,Female,Phoenix,53.6852139260978,Youtuber,,False,True,800
+563,Liam,15,Female,Philadelphia,93.2331628302944,Programer,,False,True,800
+564,Logan,48,Other,Nashville,80.7081528668228,Fit Trainer,,False,True,800
+565,Ethan,50,Male,Charlotte,117.735958127634,Programer,,False,True,800
+566,Sophia,45,Other,Portland,53.1991641962913,Carpenter,,False,True,800
+567,Zoe,51,Female,Boston,49.8407127279924,Periodist,,False,True,800
+568,Grace,113,Female,San Antonio,43.1800192528029,Construction Worker,,True,True,1000
+569,Scarlett,50,Female,Orlando,106.183056083535,Fit Trainer,,False,True,800
+570,Ethan,104,Other,Los Angeles,83.2633425107232,Architect,,True,True,1000
+571,Daniel,24,Female,Indianapolis,78.0254148616041,Construction Worker,,False,True,800
+572,Ethan,68,Male,Detroit,52.7374765425647,Bartender,,True,True,1000
+573,Scarlett,51,Female,Phoenix,114.764992286966,Fit Trainer,,False,True,800
+574,Olivia,104,Other,Detroit,93.1276640490573,Youtuber,,True,True,1000
+575,Alexander,47,Male,San Francisco,119.388824377798,Programer,,False,True,800
+576,Mia,51,Female,Nashville,25.0348261799419,Food Deliver,,False,True,800
+577,Isabella,10,Other,Atlanta,78.805959397973,Firefigther,,False,True,800
+578,James,48,Female,Philadelphia,73.7777388531111,Enterprises Manager,,False,True,800
+579,Benjamin,114,Other,Dallas,42.674395020654,Construction Worker,,True,True,1000
+580,Mason,22,Male,Dallas,72.9861543367973,Fit Trainer,,False,True,800
+581,Alexander,1,Male,Minneapolis,40.9683203880103,Plumber,,False,True,800
+582,Ella,5,Other,Detroit,105.887573714964,Enterprises Manager,,False,True,800
+583,Henry,7,Female,Washington D.C.,25.0730932903543,Plumber,,False,True,800
+584,Harper,113,Other,Seattle,99.6881866881724,Food Deliver,,True,True,1000
+585,Olivia,99,Other,Detroit,35.734575655396,Firefigther,,True,True,1000
+586,Logan,31,Male,Miami,77.0138895038608,Nurse,,False,True,800
+587,James,93,Male,Nashville,73.0862088398207,Programer,,True,True,1000
+588,Amelia,28,Female,Houston,64.3880553022102,Plumber,,False,True,800
+589,Mia,48,Other,Houston,41.1004179429776,Carpenter,,False,True,800
+590,Ethan,111,Other,Philadelphia,20.8699242113536,Enterprises Manager,,True,True,1000
+591,Henry,95,Male,Seattle,70.968123181719,Construction Worker,,True,True,1000
+592,James,69,Male,Las Vegas,95.6030625804542,Enterprises Manager,,True,True,1000
+593,Isabella,97,Female,Boston,27.3373958890429,Postman,,True,True,1000
+594,Charlotte,41,Female,New York,109.428802514533,Store Asistant,,False,True,800
+595,Olivia,73,Female,Nashville,45.4162918116649,Bartender,,True,True,1000
+596,Daniel,31,Male,Charlotte,64.1258015329116,Medic,,False,True,800
+597,Grace,65,Other,Houston,73.2319370668261,Periodist,,True,True,1000
+598,Amelia,53,Female,Dallas,111.164476919859,Business Man,,False,True,800
+599,Lucas,70,Other,Boston,51.8765173149501,Food Deliver,,True,True,1000
+600,Olivia,69,Other,Orlando,93.4667902385575,Store Asistant,,True,True,1000
+601,Ella,46,Other,Atlanta,32.443348133276,Police Officer,,False,True,800
+602,Mia,114,Other,Los Angeles,61.4594152681721,Postman,,True,True,1000
+603,Grace,56,Female,Detroit,39.3762409313285,Fit Trainer,,False,True,800
+604,Henry,21,Female,Indianapolis,87.9720011165693,Periodist,,False,True,800
+605,Isabella,14,Female,Las Vegas,66.5476626244334,Store Asistant,,False,True,800
+606,Daniel,109,Female,Detroit,94.2002212536279,Enterprises Manager,,True,True,1000
+607,Noah,25,Female,Indianapolis,43.4589184032529,Windows Cleaner,,False,True,800
+608,Zoe,50,Male,Phoenix,62.6612185495967,Nurse,,False,True,800
+609,Logan,110,Female,Las Vegas,96.0298073901715,Youtuber,,True,True,1000
+610,Ella,94,Other,Denver,64.8587742307543,Windows Cleaner,4142.0,True,True,1000
+611,Grace,9,Male,Las Vegas,33.2510344088918,Bartender,5228.0,False,False,0
+612,Mason,38,Female,Las Vegas,100.583897934172,Postman,5651.0,False,False,0
+613,Harper,67,Female,Minneapolis,116.071253661614,Medic,1779.0,True,True,1000
+614,Alexander,46,Other,New York,36.8040447846558,Periodist,1645.0,False,False,0
+615,Henry,82,Female,Los Angeles,31.7171953831483,Housekeeper,2770.0,True,True,1000
+616,Amelia,96,Other,Minneapolis,85.7643192993932,Plumber,3042.0,True,True,1000
+617,Amelia,17,Male,Seattle,89.4587621726667,Windows Cleaner,4088.0,False,False,0
+618,Emma,13,Other,Chicago,101.126680045715,Programer,6763.0,False,False,0
+619,James,7,Other,Phoenix,79.3872303954437,Periodist,4003.0,False,False,0
+620,Ella,68,Female,Las Vegas,93.1871327411477,Food Deliver,1742.0,True,True,1000
+621,Ava,110,Male,Atlanta,30.8975811887322,Postman,7281.0,True,True,1000
+622,Olivia,116,Other,San Diego,88.8526568401833,Housekeeper,4718.0,True,True,1000
+623,Michael,85,Other,Houston,40.1121343640275,Periodist,4999.0,True,True,1000
+624,Olivia,105,Other,Houston,63.4022616957102,Fit Trainer,2066.0,True,True,1000
+625,Ethan,40,Male,Indianapolis,23.1012619358229,Firefigther,4616.0,False,False,0
+626,Mia,87,Female,Los Angeles,100.341363563624,Nurse,7459.0,True,True,1000
+627,Henry,70,Female,Phoenix,65.3695315430039,Enterprises Manager,6334.0,True,True,1000
+628,Ella,111,Female,Minneapolis,45.8682892662746,Youtuber,3666.0,True,True,1000
+629,Mason,106,Male,Dallas,68.8798929150665,Financial Manager,5776.0,True,True,1000
+630,Ethan,110,Male,Austin,116.443199173754,Store Asistant,1444.0,True,True,1000
+631,Liam,106,Male,Boston,51.9548164685028,Food Deliver,3044.0,True,True,1000
+632,Henry,24,Female,Minneapolis,69.4741033042337,Nurse,3115.0,False,False,0
+633,Amelia,15,Other,Orlando,59.1826611434581,Periodist,7516.0,False,False,0
+634,Harper,65,Male,Los Angeles,49.1407073031099,Secretary,5673.0,True,True,1000
+635,Michael,54,Male,Las Vegas,83.1051108321583,Nurse,1191.0,False,False,0
+636,Olivia,110,Other,Austin,84.5253978109734,Periodist,2687.0,True,True,1000
+637,Emma,4,Other,Orlando,68.6057494505828,Architect,4846.0,False,False,0
+638,Isabella,57,Female,Tampa,23.258121609544,Secretary,2252.0,False,False,0
+639,Scarlett,54,Other,Houston,114.160050389978,Bartender,6583.0,False,False,0
+640,Daniel,107,Female,Phoenix,88.2726819748126,Business Man,3101.0,True,True,1000
+641,Logan,31,Male,Miami,75.8248222263451,Postman,5441.0,False,False,0
+642,Lucas,91,Male,Indianapolis,26.3518564620473,Housekeeper,4821.0,True,True,1000
+643,Zoe,91,Male,San Francisco,72.6691056042451,Financial Manager,5026.0,True,True,1000
+644,Sophia,68,Male,Atlanta,90.2652281990548,Youtuber,1064.0,True,True,1000
+645,Ella,14,Other,Miami,111.196143721089,Carpenter,4612.0,False,False,0
+646,Scarlett,98,Male,Houston,50.5359231335107,Enterprises Manager,1959.0,True,True,1000
+647,Charlotte,14,Male,Phoenix,101.241976151327,Fit Trainer,7985.0,False,False,0
+648,Olivia,1,Other,Denver,44.4596059287101,Financial Manager,4391.0,False,False,0
+649,Lily,43,Female,Miami,87.3960464342549,Police Officer,1557.0,False,False,0
+650,Grace,106,Other,Boston,88.3704095202661,Windows Cleaner,7225.0,True,True,1000
+651,Lucas,33,Male,Miami,98.4115619835493,Windows Cleaner,3851.0,False,False,0
+652,Harper,18,Male,Atlanta,114.891866875076,Financial Manager,3027.0,False,False,0
+653,Daniel,12,Other,Boston,98.3087394261579,Fit Trainer,2550.0,False,False,0
+654,Michael,67,Female,New York,95.068792163814,Construction Worker,5736.0,True,True,1000
+655,Ethan,31,Male,Miami,44.6308378769295,Fit Trainer,6625.0,False,False,0
+656,Harper,42,Male,Tampa,118.089600361952,Windows Cleaner,4628.0,False,False,0
+657,Liam,76,Male,Minneapolis,37.6538210206497,Housekeeper,6604.0,True,True,1000
+658,Ethan,107,Female,Minneapolis,64.4367679498788,Architect,3901.0,True,True,1000
+659,Mason,81,Female,Portland,80.1805295018987,Babysiter,3005.0,True,True,1000
+660,Liam,58,Male,Austin,108.10982552493,Police Officer,1144.0,False,False,0
+661,John,28,Male,Oklahoma,45250.0,Dishwasher,980.0,False,True,800
+662,Carlos,36,Male,New York,21050.0,Dishwasher,1150.0,False,False,0
+663,Tania,21,Male,Detroit,14550.0,Dishwasher,860.0,False,True,800
