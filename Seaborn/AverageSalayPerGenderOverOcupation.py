@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv('../DataSets/people_data.csv')
+df = pd.read_csv('./DataSets/people_data.csv')
 
 # Get DataFrame of mean salary grouped by gender
 gender_average_salary_over_ocupation = df.groupby(['Ocupation', 'Gender'])['Salary'].mean().reset_index() # Convert this Series object to a DataFrame for its visualization in barplot
