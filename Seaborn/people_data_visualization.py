@@ -107,8 +107,9 @@ def show_government_support_by_cities_over_occupations(execute:bool=False) -> No
             SELECT City, Occupation, SUM(SupportAmount) AS SumSupportAmount
             FROM Population
             WHERE Name IS NOT NULL OR Salary IS NOT NULL
-            GROUP BY City, Occupation
+            GROUP BY City, Occupation;
         """
+
         queryset = pd.read_sql_query(query, conn)
         print(queryset)
 
@@ -122,4 +123,43 @@ def show_government_support_by_cities_over_occupations(execute:bool=False) -> No
         plt.show()
     pass
 
-show_government_support_by_cities_over_occupations(True)
+def show_support_amount_and_salary_relation_by_occupation(execute:bool=False):
+    if execute:
+        query = """
+            SELECT Occupation, SUM(salary) AS sum_salary, AVG(salary) AS avg_salary, SUM(SupportAmount) AS sum_support_amount
+            FROM Population
+            WHERE name IS NOT NULL AND salary IS NOT NULL
+            GROUP BY Occupation
+            ORDER BY SupportAmount DESC;
+        """
+        queryset = pd.read_sql_query(query, conn)
+        print(queryset)
+
+        # Remove None values from occupations
+        queryset = queryset[queryset['Occupation'] != 'None']
+        print(queryset)
+
+        # Set Occupation as index
+        queryset.set_index('Occupation', inplace=True)
+
+        # Sort by avg_salary desc
+        queryset.sort_values(by='avg_salary', ascending=False, inplace=True)
+
+        # Plot comparative bar chart
+        plt.style.use('dark_background')
+        queryset[['sum_salary', 'avg_salary', 'sum_support_amount']].plot(
+            kind='line',
+            figsize=(12, 6),
+            color=['royalblue', 'purple', 'violet']
+        )
+        plt.title('Total Salary vs. Government Support by Occupation')
+        plt.xlabel('Occupation')
+        plt.ylabel('Amount ($)')
+        plt.xticks(rotation=45)
+        plt.legend(['Total Salary', 'Average Salary', 'Government Support'])
+        plt.tight_layout()
+        plt.grid(False)
+        plt.show()
+
+show_government_support_by_cities_over_occupations(False)
+show_support_amount_and_salary_relation_by_occupation(True)
