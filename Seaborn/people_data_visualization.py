@@ -127,7 +127,7 @@ def show_support_amount_and_salary_relation_by_occupation(execute:bool=False):
     if execute:
         # Plots
         plt.style.use('dark_background')
-        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(18, 8), sharey=True)
+        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(18, 8), sharey=False) # Sharey manages using the same Y-axis scale or not, for both plots 
 
         # Queryset #1
         query = """
@@ -145,8 +145,14 @@ def show_support_amount_and_salary_relation_by_occupation(execute:bool=False):
             kind='bar',
             ax=ax1,
             figsize=(12, 6),
+            width=0.9,
             color=['royalblue', 'violet', 'white']
         )
+
+        for i, v in enumerate(queryset['avg_salary']):
+            ax1.text(i, v + 1000, f"${v:,.0f}", color='white', ha='center', fontsize=4)
+
+
         ax1.set_title('Max Salary vs Min Salary vs Avg Salary')
         ax1.set_xlabel(None)
         ax1.set_ylabel('Amount ($)')
