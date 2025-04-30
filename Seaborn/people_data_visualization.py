@@ -125,6 +125,37 @@ def show_government_support_by_cities_over_occupations(execute:bool=False) -> No
 
 def show_support_amount_and_salary_relation_by_occupation(execute:bool=False):
     if execute:
+        # Plots
+        plt.style.use('dark_background')
+        fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(18, 8), sharey=True)
+
+        # Queryset #1
+        query = """
+            SELECT Occupation, MAX(salary) AS max_salary, MIN(salary) AS min_salary, AVG(salary) AS avg_salary
+            FROM Population
+            WHERE name IS NOT NULL AND salary IS NOT NULL
+            GROUP BY Occupation;
+        """
+        queryset = pd.read_sql_query(query, conn)
+        queryset.set_index('Occupation', inplace=True) # Set Occupation as index
+        queryset.sort_values(by='avg_salary', ascending=False, inplace=True) # Sort by avg_salary desc
+
+        # Plot #1
+        queryset[['max_salary', 'min_salary', 'avg_salary']].plot(
+            kind='bar',
+            ax=ax1,
+            figsize=(12, 6),
+            color=['royalblue', 'violet', 'white']
+        )
+        ax1.set_title('Max Salary vs Min Salary vs Avg Salary')
+        ax1.set_xlabel(None)
+        ax1.set_ylabel('Amount ($)')
+        ax1.set_xticklabels(queryset.index, rotation=85)
+        ax1.legend(['Max salary', 'Min salary', 'Avg salary'])
+        ax1.grid(True, linestyle='--', alpha=0.3)
+        
+
+        # Queryset #2
         query = """
             SELECT Occupation, SUM(salary) AS sum_salary, AVG(salary) AS avg_salary, SUM(SupportAmount) AS sum_support_amount
             FROM Population
@@ -133,30 +164,25 @@ def show_support_amount_and_salary_relation_by_occupation(execute:bool=False):
             ORDER BY SupportAmount DESC;
         """
         queryset = pd.read_sql_query(query, conn)
-        print(queryset)
+        queryset = queryset[queryset['Occupation'] != 'None'] # Remove None values from occupations
+        queryset.set_index('Occupation', inplace=True) # Set Occupation as index
+        queryset.sort_values(by='avg_salary', ascending=False, inplace=True) # Sort by avg_salary desc
 
-        # Remove None values from occupations
-        queryset = queryset[queryset['Occupation'] != 'None']
-        print(queryset)
-
-        # Set Occupation as index
-        queryset.set_index('Occupation', inplace=True)
-
-        # Sort by avg_salary desc
-        queryset.sort_values(by='avg_salary', ascending=False, inplace=True)
-
-        # Plot comparative bar chart
-        plt.style.use('dark_background')
+        # Plot #2
         queryset[['sum_salary', 'avg_salary', 'sum_support_amount']].plot(
             kind='line',
+            ax=ax2,
             figsize=(12, 6),
-            color=['royalblue', 'purple', 'violet']
+            color=['royalblue', 'white', 'violet']
         )
-        plt.title('Total Salary vs. Government Support by Occupation')
-        plt.xlabel('Occupation')
-        plt.ylabel('Amount ($)')
-        plt.xticks(rotation=45)
-        plt.legend(['Total Salary', 'Average Salary', 'Government Support'])
+        ax2.set_title('Salaries Sum vs Goverment Support by Occupation')
+        ax2.set_xlabel(None)
+        ax2.set_ylabel('Amount ($)')
+        ax2.set_xticks(range(len(queryset)))
+        ax2.set_xticklabels(queryset.index, rotation=85, ha='right')
+        ax2.grid(True, linestyle='--', alpha=0.3)
+
+        # Show plots
         plt.tight_layout()
         plt.grid(False)
         plt.show()
